@@ -1,0 +1,1001 @@
+Patient_ID,Age,Gender,Height_cm,Weight_kg,Blood_Pressure_Systolic,Blood_Pressure_Diastolic,Cholesterol_mg_dL,Blood_Sugar_mg_dL,Medical_History,Smoking_Status,Alcohol_Consumption,Physical_Activity_Level,Last_Checkup_Date
+1,69,Male,163,59,158,119,248,137,Hypertension,Non-smoker,Occasionally,Moderate,2023-10-02
+2,32,Male,188,65,142,98,203,118,None,Former smoker,Occasionally,Moderate,2017-12-27
+3,89,Female,174,103,151,67,297,121,Diabetes,Non-smoker,Occasionally,Low,2020-03-08
+4,78,Male,169,119,130,84,239,183,Heart Disease,Current smoker,Never,High,2016-12-16
+5,38,Male,151,93,146,72,243,176,None,Non-smoker,Never,High,2018-05-05
+6,41,Male,188,94,149,91,180,98,None,Non-smoker,Never,Low,2019-01-28
+7,20,Male,155,105,143,118,186,147,Heart Disease,Non-smoker,Never,High,2015-06-18
+8,39,Female,166,106,159,97,241,78,Asthma,Non-smoker,Regularly,Low,2023-10-26
+9,70,Male,174,70,146,97,160,145,Heart Disease,Current smoker,Never,Moderate,2015-08-14
+10,19,Male,177,117,99,115,298,111,Heart Disease,Current smoker,Occasionally,Moderate,2020-04-21
+11,47,Male,151,99,129,87,145,197,Asthma,Former smoker,Never,Low,2023-07-12
+12,55,Male,184,82,96,112,131,89,Asthma,Non-smoker,Regularly,Moderate,2022-11-10
+13,19,Female,186,56,127,89,114,141,Asthma,Non-smoker,Regularly,Moderate,2015-11-21
+14,81,Female,154,119,174,62,143,134,Asthma,Former smoker,Regularly,Low,2019-08-13
+15,77,Male,150,64,150,87,244,182,Asthma,Non-smoker,Occasionally,Moderate,2019-07-06
+16,38,Male,189,81,173,62,268,93,Heart Disease,Former smoker,Never,High,2023-07-24
+17,50,Male,161,69,92,104,153,197,Hypertension,Current smoker,Never,Moderate,2022-11-23
+18,75,Male,185,64,140,113,143,152,Hypertension,Former smoker,Never,Low,2022-06-10
+19,39,Male,194,97,175,93,197,132,Diabetes,Non-smoker,Occasionally,High,2018-10-25
+20,66,Male,172,70,136,75,104,129,Hypertension,Former smoker,Occasionally,High,2017-10-13
+21,76,Female,196,91,157,81,208,168,Hypertension,Current smoker,Regularly,Moderate,2022-05-12
+22,59,Male,180,75,165,91,126,131,Heart Disease,Non-smoker,Regularly,High,2017-12-27
+23,77,Female,160,63,127,97,215,99,Asthma,Current smoker,Never,Low,2023-03-18
+24,32,Female,159,106,125,67,186,91,Asthma,Current smoker,Occasionally,High,2016-11-15
+25,79,Male,152,86,130,114,203,195,Heart Disease,Former smoker,Occasionally,Moderate,2020-12-06
+26,79,Female,163,107,158,67,222,111,Hypertension,Current smoker,Never,Moderate,2023-05-05
+27,64,Female,165,70,102,116,178,167,Heart Disease,Non-smoker,Never,High,2015-08-13
+28,79,Female,159,118,176,65,142,100,Diabetes,Current smoker,Regularly,Low,2022-05-01
+29,68,Female,178,52,147,73,196,181,Asthma,Current smoker,Regularly,Low,2015-09-05
+30,72,Female,159,86,139,91,130,191,None,Former smoker,Regularly,Moderate,2023-10-11
+31,81,Female,161,98,119,94,198,86,Diabetes,Current smoker,Never,Moderate,2015-03-17
+32,20,Male,179,68,151,69,116,107,Diabetes,Former smoker,Never,Low,2023-06-16
+33,68,Female,190,61,114,62,182,179,Heart Disease,Former smoker,Regularly,High,2021-10-01
+34,24,Female,150,110,116,118,209,91,Hypertension,Non-smoker,Regularly,High,2017-10-14
+35,38,Female,154,90,140,71,281,125,Asthma,Non-smoker,Occasionally,High,2017-05-27
+36,56,Male,169,82,167,108,289,188,None,Non-smoker,Occasionally,High,2016-08-09
+37,35,Female,157,99,146,118,131,126,Diabetes,Non-smoker,Regularly,Low,2023-12-24
+38,21,Male,192,117,136,90,267,104,None,Former smoker,Regularly,Moderate,2018-03-08
+39,77,Female,161,82,128,88,240,183,Hypertension,Current smoker,Occasionally,Moderate,2017-08-09
+40,31,Male,150,73,105,64,134,194,Hypertension,Non-smoker,Regularly,High,2016-07-04
+41,26,Male,169,110,111,111,232,198,None,Non-smoker,Occasionally,Low,2015-08-20
+42,70,Female,177,110,174,84,128,121,Asthma,Non-smoker,Occasionally,Low,2019-03-19
+43,19,Female,192,77,143,100,169,154,Hypertension,Current smoker,Occasionally,High,2016-12-17
+44,77,Male,186,107,110,90,252,134,None,Non-smoker,Never,High,2018-04-29
+45,88,Female,196,92,161,80,194,198,Diabetes,Current smoker,Never,High,2016-02-23
+46,61,Male,186,90,105,117,121,90,None,Former smoker,Regularly,Moderate,2018-08-04
+47,25,Male,161,88,148,79,293,85,None,Former smoker,Occasionally,High,2015-05-11
+48,64,Male,186,98,120,98,272,192,Heart Disease,Former smoker,Never,Moderate,2018-10-20
+49,52,Male,198,66,131,81,168,130,Hypertension,Current smoker,Regularly,Low,2023-01-08
+50,53,Male,198,119,163,63,188,123,Asthma,Non-smoker,Regularly,Low,2016-12-25
+51,67,Female,193,119,121,72,171,95,Asthma,Non-smoker,Regularly,Moderate,2021-04-26
+52,21,Male,177,114,148,104,228,149,Heart Disease,Non-smoker,Regularly,Moderate,2019-12-11
+53,19,Male,196,54,123,101,271,134,Asthma,Non-smoker,Regularly,Moderate,2015-04-20
+54,23,Female,164,51,98,109,186,169,None,Non-smoker,Occasionally,Moderate,2022-07-11
+55,71,Male,155,71,170,108,195,143,Heart Disease,Current smoker,Regularly,High,2019-01-24
+56,21,Female,193,106,100,79,174,86,Diabetes,Former smoker,Occasionally,Low,2019-02-01
+57,71,Female,169,115,99,111,266,190,Hypertension,Non-smoker,Never,High,2019-08-15
+58,80,Female,199,65,175,72,153,92,Hypertension,Former smoker,Regularly,Moderate,2022-09-05
+59,35,Male,163,100,106,76,187,140,Hypertension,Current smoker,Never,High,2022-03-08
+60,61,Male,151,88,157,113,256,177,None,Current smoker,Occasionally,High,2021-12-30
+61,51,Male,158,89,137,95,153,148,Diabetes,Non-smoker,Occasionally,Low,2021-04-23
+62,79,Female,186,87,141,92,115,115,Heart Disease,Current smoker,Never,High,2021-09-19
+63,31,Male,169,109,114,60,198,147,Heart Disease,Former smoker,Regularly,Low,2015-08-15
+64,65,Female,175,108,110,74,119,85,Hypertension,Non-smoker,Regularly,Moderate,2017-01-06
+65,32,Male,178,59,154,72,145,140,Diabetes,Non-smoker,Never,High,2016-03-20
+66,89,Female,150,113,152,76,294,165,Diabetes,Former smoker,Never,Moderate,2023-07-11
+67,79,Male,184,112,178,83,292,71,Diabetes,Non-smoker,Never,Low,2023-11-07
+68,57,Male,155,98,140,117,226,79,Asthma,Non-smoker,Regularly,Moderate,2018-10-17
+69,70,Male,186,113,125,67,157,194,Asthma,Former smoker,Regularly,Moderate,2016-08-27
+70,41,Female,154,81,170,109,280,150,Hypertension,Non-smoker,Regularly,Low,2021-07-08
+71,43,Female,182,56,177,86,210,139,Diabetes,Non-smoker,Never,Moderate,2023-10-26
+72,77,Male,198,70,155,104,228,101,Diabetes,Former smoker,Regularly,Moderate,2023-09-26
+73,58,Male,163,69,104,82,180,174,Heart Disease,Current smoker,Occasionally,Moderate,2016-05-24
+74,46,Female,161,75,128,105,293,153,Heart Disease,Former smoker,Never,High,2015-05-25
+75,32,Female,191,117,159,67,256,198,Hypertension,Non-smoker,Regularly,Moderate,2016-10-19
+76,62,Female,169,64,90,67,183,127,Diabetes,Former smoker,Never,Low,2022-06-06
+77,82,Male,199,63,112,118,169,114,Hypertension,Non-smoker,Occasionally,High,2022-05-31
+78,88,Female,173,76,128,85,107,166,Heart Disease,Non-smoker,Occasionally,High,2016-05-24
+79,26,Male,192,89,146,106,128,92,Heart Disease,Former smoker,Never,Low,2015-02-08
+80,18,Female,183,107,170,118,211,92,Asthma,Non-smoker,Never,Moderate,2022-02-10
+81,25,Male,174,77,123,72,278,148,Hypertension,Current smoker,Occasionally,High,2016-10-07
+82,80,Female,199,75,130,98,260,113,Hypertension,Non-smoker,Never,High,2019-07-17
+83,28,Female,178,112,162,96,230,96,Diabetes,Former smoker,Occasionally,High,2022-07-16
+84,25,Female,188,115,102,108,287,95,Diabetes,Current smoker,Occasionally,Moderate,2021-01-19
+85,52,Female,180,74,159,87,262,166,Asthma,Current smoker,Regularly,High,2015-05-23
+86,52,Female,196,52,95,84,296,105,None,Non-smoker,Never,Low,2018-11-24
+87,50,Male,192,93,173,75,207,178,None,Former smoker,Never,Moderate,2022-06-27
+88,22,Female,199,91,141,114,208,124,None,Non-smoker,Regularly,Low,2017-07-30
+89,58,Female,172,55,92,61,119,138,Hypertension,Non-smoker,Occasionally,Low,2016-06-02
+90,45,Female,193,88,170,113,172,130,Hypertension,Former smoker,Never,High,2019-06-19
+91,24,Male,187,101,152,77,266,199,Heart Disease,Former smoker,Regularly,High,2023-09-01
+92,89,Female,169,72,138,76,103,124,Hypertension,Non-smoker,Regularly,High,2020-01-25
+93,29,Male,172,99,165,89,118,191,Hypertension,Current smoker,Never,Low,2018-04-19
+94,51,Female,194,92,136,98,201,166,Hypertension,Non-smoker,Regularly,Moderate,2017-03-20
+95,50,Female,165,68,144,72,272,149,Asthma,Current smoker,Occasionally,High,2019-05-06
+96,65,Male,199,118,153,91,270,156,Hypertension,Non-smoker,Regularly,High,2022-01-24
+97,40,Female,191,100,154,109,240,107,Diabetes,Former smoker,Occasionally,Low,2015-10-17
+98,79,Male,157,60,170,88,240,188,Diabetes,Current smoker,Occasionally,Moderate,2022-06-07
+99,54,Male,199,61,156,105,287,147,Heart Disease,Former smoker,Never,Low,2016-08-22
+100,61,Female,170,57,179,89,284,104,Asthma,Former smoker,Regularly,High,2021-04-18
+101,52,Male,150,73,104,77,185,148,Diabetes,Former smoker,Occasionally,Low,2017-07-27
+102,82,Female,157,90,121,72,151,136,Asthma,Former smoker,Occasionally,High,2016-12-14
+103,64,Female,178,85,157,102,210,156,Asthma,Former smoker,Regularly,Moderate,2018-04-18
+104,20,Male,181,104,107,80,280,103,Heart Disease,Non-smoker,Occasionally,Low,2015-10-25
+105,18,Male,187,58,172,89,208,166,Asthma,Current smoker,Regularly,High,2017-02-21
+106,22,Male,154,96,132,80,185,140,Hypertension,Non-smoker,Never,High,2023-04-18
+107,31,Male,196,64,124,107,142,72,Asthma,Non-smoker,Occasionally,High,2021-01-01
+108,44,Female,171,97,167,114,299,127,Heart Disease,Non-smoker,Occasionally,High,2015-09-10
+109,26,Female,196,91,147,76,299,101,Heart Disease,Former smoker,Regularly,Low,2015-12-22
+110,32,Male,183,109,122,99,141,100,Heart Disease,Non-smoker,Regularly,High,2020-05-04
+111,59,Female,150,119,103,78,189,151,Diabetes,Current smoker,Regularly,Low,2022-02-28
+112,68,Female,175,61,123,111,214,112,Hypertension,Non-smoker,Regularly,High,2017-04-04
+113,80,Female,192,51,150,74,125,174,Diabetes,Former smoker,Occasionally,Low,2022-03-28
+114,69,Female,159,56,93,68,250,70,None,Current smoker,Never,Low,2020-04-11
+115,21,Male,179,52,177,111,142,130,Hypertension,Current smoker,Never,High,2021-09-17
+116,40,Male,199,52,148,69,176,83,Asthma,Current smoker,Never,High,2016-12-27
+117,32,Female,167,76,118,103,255,75,Heart Disease,Current smoker,Never,High,2019-12-15
+118,60,Male,166,89,172,90,236,172,None,Non-smoker,Regularly,High,2015-06-14
+119,46,Male,175,82,95,112,119,79,Hypertension,Former smoker,Occasionally,Moderate,2017-06-22
+120,53,Male,157,50,138,82,283,140,Diabetes,Current smoker,Occasionally,High,2015-12-28
+121,30,Female,196,57,129,111,138,159,Heart Disease,Current smoker,Occasionally,High,2021-09-06
+122,49,Female,189,81,172,89,278,195,Diabetes,Former smoker,Regularly,High,2018-07-02
+123,88,Female,198,97,154,92,111,166,Hypertension,Non-smoker,Occasionally,Low,2016-09-08
+124,76,Male,161,53,158,116,282,143,Hypertension,Current smoker,Regularly,High,2016-01-01
+125,45,Female,176,119,116,111,110,184,None,Non-smoker,Occasionally,Low,2020-08-13
+126,83,Female,157,68,169,68,253,120,Asthma,Non-smoker,Never,Low,2020-01-15
+127,59,Male,174,81,95,113,141,125,Diabetes,Non-smoker,Regularly,Low,2023-04-02
+128,62,Female,195,58,102,106,254,110,None,Non-smoker,Occasionally,Low,2018-05-04
+129,79,Female,153,61,153,60,110,101,Heart Disease,Current smoker,Never,Moderate,2017-04-28
+130,74,Male,182,60,151,103,137,84,Asthma,Current smoker,Never,High,2021-08-09
+131,23,Male,150,95,108,94,197,131,None,Non-smoker,Never,Low,2020-08-31
+132,45,Male,168,65,165,70,270,97,Diabetes,Non-smoker,Regularly,High,2022-09-07
+133,45,Female,180,50,169,93,118,133,Hypertension,Former smoker,Regularly,Low,2020-02-29
+134,61,Female,165,112,132,75,291,199,Heart Disease,Former smoker,Occasionally,Moderate,2020-07-29
+135,47,Female,163,70,163,68,233,196,Diabetes,Former smoker,Never,Low,2017-11-06
+136,79,Male,197,79,178,91,273,105,Asthma,Current smoker,Occasionally,High,2022-01-28
+137,79,Male,154,62,109,74,215,183,Asthma,Former smoker,Occasionally,High,2023-06-01
+138,18,Female,190,83,157,71,212,82,Hypertension,Current smoker,Never,Moderate,2017-02-16
+139,44,Female,175,53,133,92,269,84,Hypertension,Current smoker,Occasionally,High,2021-12-11
+140,79,Male,177,77,112,104,164,158,Heart Disease,Current smoker,Regularly,High,2023-12-27
+141,20,Male,151,108,91,73,198,91,Heart Disease,Current smoker,Occasionally,Low,2018-11-13
+142,87,Male,199,76,111,116,171,143,Hypertension,Former smoker,Never,High,2022-01-11
+143,89,Male,155,118,146,116,286,94,Hypertension,Non-smoker,Regularly,Low,2020-05-02
+144,44,Female,158,74,161,67,151,170,Asthma,Non-smoker,Regularly,Moderate,2018-02-12
+145,26,Male,182,52,96,67,217,186,Hypertension,Non-smoker,Occasionally,High,2021-02-11
+146,79,Female,190,117,167,86,274,110,None,Former smoker,Occasionally,Low,2015-11-14
+147,54,Female,174,74,145,71,219,157,Diabetes,Non-smoker,Regularly,High,2021-03-02
+148,68,Female,197,69,156,60,106,179,Hypertension,Former smoker,Occasionally,Low,2016-05-14
+149,61,Male,162,83,105,102,110,189,Heart Disease,Former smoker,Never,Moderate,2019-06-12
+150,41,Male,158,75,172,99,202,166,None,Former smoker,Occasionally,Low,2023-11-14
+151,76,Male,162,54,140,101,160,126,Heart Disease,Non-smoker,Occasionally,High,2016-08-04
+152,49,Male,180,110,171,110,167,199,None,Non-smoker,Regularly,Low,2016-11-28
+153,69,Female,190,58,169,70,252,165,Hypertension,Non-smoker,Occasionally,High,2020-12-22
+154,79,Male,160,99,161,98,239,190,Diabetes,Current smoker,Occasionally,Moderate,2018-09-21
+155,75,Male,153,55,101,102,253,131,Heart Disease,Former smoker,Occasionally,Low,2017-06-10
+156,69,Female,183,109,142,90,201,137,None,Current smoker,Never,High,2015-02-12
+157,29,Male,187,93,164,76,209,150,Asthma,Former smoker,Occasionally,High,2015-06-11
+158,56,Female,195,60,94,92,239,86,Hypertension,Non-smoker,Never,High,2017-12-10
+159,19,Female,153,115,116,91,270,186,Diabetes,Former smoker,Never,Low,2019-10-17
+160,20,Female,187,96,101,117,150,119,Hypertension,Former smoker,Never,Low,2019-10-15
+161,73,Female,168,52,106,88,216,181,Asthma,Current smoker,Never,Low,2020-05-27
+162,76,Female,155,79,95,80,264,163,Diabetes,Former smoker,Regularly,Moderate,2019-08-13
+163,19,Female,183,70,94,80,145,154,Asthma,Non-smoker,Never,High,2022-08-23
+164,19,Female,167,77,146,99,152,143,Hypertension,Former smoker,Occasionally,High,2022-09-06
+165,71,Female,162,111,117,82,187,178,None,Former smoker,Never,Moderate,2020-10-03
+166,18,Male,190,82,167,115,220,87,Hypertension,Former smoker,Occasionally,Moderate,2015-08-25
+167,36,Male,172,84,158,65,112,111,Hypertension,Current smoker,Never,Low,2016-05-12
+168,19,Male,168,101,148,81,188,170,Hypertension,Former smoker,Regularly,Low,2022-04-09
+169,70,Male,194,83,122,109,224,114,Heart Disease,Former smoker,Never,Low,2023-07-26
+170,61,Female,160,90,151,97,217,151,Asthma,Current smoker,Never,Low,2016-10-04
+171,49,Male,150,100,139,96,153,86,Asthma,Current smoker,Regularly,Low,2023-04-03
+172,87,Female,173,96,108,104,284,142,Asthma,Current smoker,Never,Low,2023-12-18
+173,49,Male,156,107,175,110,215,83,Heart Disease,Current smoker,Occasionally,Moderate,2015-02-10
+174,85,Male,174,106,158,113,217,151,None,Non-smoker,Never,Moderate,2019-07-19
+175,72,Male,170,72,155,67,103,189,Hypertension,Non-smoker,Never,Moderate,2019-10-21
+176,73,Female,164,97,136,100,174,189,None,Former smoker,Never,High,2023-01-20
+177,34,Male,150,71,128,108,148,116,Heart Disease,Non-smoker,Regularly,High,2023-06-28
+178,55,Female,161,66,157,94,106,176,Asthma,Former smoker,Never,Low,2016-08-29
+179,41,Female,156,118,122,110,209,177,Hypertension,Non-smoker,Never,Moderate,2018-11-26
+180,86,Male,164,60,102,70,221,78,Diabetes,Current smoker,Occasionally,High,2017-05-11
+181,87,Male,170,64,173,83,110,148,Diabetes,Current smoker,Never,High,2023-08-05
+182,28,Male,168,84,143,108,191,84,None,Non-smoker,Never,Moderate,2021-01-17
+183,33,Female,178,82,96,80,281,88,Asthma,Non-smoker,Never,High,2019-08-15
+184,76,Male,174,65,168,110,272,159,Diabetes,Former smoker,Never,High,2022-05-05
+185,87,Female,182,83,176,61,122,95,None,Former smoker,Occasionally,Moderate,2022-04-12
+186,20,Female,198,115,103,99,127,161,Heart Disease,Former smoker,Occasionally,High,2019-10-03
+187,37,Male,181,89,176,78,210,151,None,Current smoker,Regularly,Moderate,2020-03-05
+188,76,Male,198,77,108,98,156,111,None,Current smoker,Never,High,2020-07-11
+189,53,Female,184,96,143,87,125,88,None,Current smoker,Regularly,Moderate,2021-12-15
+190,36,Female,193,88,109,118,252,86,Hypertension,Current smoker,Regularly,High,2021-12-16
+191,84,Female,187,119,118,76,153,145,None,Former smoker,Never,High,2018-06-18
+192,36,Male,175,69,113,65,128,132,None,Current smoker,Occasionally,Moderate,2015-09-14
+193,37,Female,160,50,171,78,196,176,Hypertension,Current smoker,Occasionally,High,2015-05-22
+194,88,Male,184,112,152,115,263,118,Hypertension,Current smoker,Never,Moderate,2019-03-31
+195,69,Female,157,116,163,97,113,124,Heart Disease,Current smoker,Never,Moderate,2020-07-06
+196,50,Female,195,53,146,87,177,168,Asthma,Non-smoker,Occasionally,High,2018-09-22
+197,57,Male,163,107,97,61,134,121,Diabetes,Former smoker,Never,Low,2018-07-26
+198,56,Female,159,74,179,97,129,169,Diabetes,Former smoker,Never,High,2016-06-19
+199,18,Male,151,96,151,114,191,186,None,Current smoker,Never,Low,2016-11-05
+200,28,Male,195,87,118,96,116,187,Heart Disease,Non-smoker,Occasionally,Low,2019-05-25
+201,74,Female,158,64,163,110,294,76,None,Former smoker,Regularly,High,2023-02-01
+202,67,Male,152,112,106,111,257,115,Diabetes,Former smoker,Regularly,Low,2023-12-22
+203,40,Male,170,70,155,63,192,115,Hypertension,Current smoker,Never,Moderate,2017-06-09
+204,48,Female,175,106,95,81,272,169,Asthma,Current smoker,Occasionally,Moderate,2016-04-11
+205,59,Male,157,102,147,85,178,123,Heart Disease,Former smoker,Never,Low,2021-09-24
+206,24,Male,197,95,158,108,209,131,Hypertension,Former smoker,Occasionally,Moderate,2022-06-05
+207,33,Male,151,63,117,102,278,198,Asthma,Non-smoker,Never,High,2018-07-22
+208,77,Female,155,66,151,95,201,118,Heart Disease,Former smoker,Occasionally,Moderate,2023-03-29
+209,19,Male,177,88,130,117,205,94,Heart Disease,Former smoker,Occasionally,Low,2017-10-23
+210,18,Female,178,58,158,72,146,79,Diabetes,Current smoker,Regularly,High,2019-11-18
+211,65,Female,175,55,171,111,280,187,Hypertension,Former smoker,Never,Moderate,2016-08-23
+212,29,Male,174,72,179,117,163,161,Heart Disease,Current smoker,Regularly,High,2015-10-19
+213,86,Male,161,108,173,91,265,149,Heart Disease,Former smoker,Regularly,Low,2015-03-21
+214,54,Male,154,95,130,76,163,140,Asthma,Former smoker,Occasionally,Moderate,2019-12-20
+215,49,Female,183,87,138,100,186,147,Diabetes,Former smoker,Never,High,2020-11-13
+216,26,Male,197,63,138,95,106,112,None,Non-smoker,Occasionally,High,2021-07-10
+217,36,Male,186,111,165,114,121,159,Diabetes,Current smoker,Occasionally,Moderate,2021-05-06
+218,65,Male,164,84,160,119,180,147,None,Non-smoker,Occasionally,High,2022-10-01
+219,20,Male,193,68,92,105,268,95,Hypertension,Former smoker,Never,High,2019-08-19
+220,37,Male,185,79,99,78,173,190,Hypertension,Non-smoker,Never,Low,2017-12-25
+221,41,Female,164,74,178,117,237,114,Heart Disease,Current smoker,Occasionally,Low,2017-05-18
+222,71,Female,192,89,124,119,284,132,Hypertension,Former smoker,Never,Low,2023-03-12
+223,50,Male,197,63,169,94,234,137,Heart Disease,Non-smoker,Occasionally,Low,2020-07-13
+224,41,Male,172,75,91,105,224,71,Diabetes,Non-smoker,Never,Low,2021-03-16
+225,89,Male,155,71,113,99,149,177,Hypertension,Current smoker,Never,Low,2015-08-17
+226,53,Male,195,97,163,115,151,99,Diabetes,Non-smoker,Regularly,Moderate,2016-08-21
+227,55,Female,199,100,127,118,260,118,Diabetes,Current smoker,Occasionally,Low,2022-03-18
+228,42,Male,193,52,111,87,100,113,Hypertension,Former smoker,Regularly,High,2020-07-27
+229,35,Female,192,91,115,60,280,82,Diabetes,Former smoker,Regularly,Moderate,2020-12-27
+230,83,Female,194,68,132,101,287,147,Hypertension,Non-smoker,Occasionally,High,2020-01-27
+231,71,Male,170,77,144,77,261,195,Hypertension,Former smoker,Occasionally,Low,2015-04-02
+232,52,Female,172,94,128,107,103,167,Hypertension,Former smoker,Never,Low,2021-12-19
+233,78,Female,192,112,118,99,244,95,None,Non-smoker,Occasionally,High,2021-02-18
+234,58,Female,165,68,109,92,231,117,Diabetes,Former smoker,Regularly,High,2021-08-31
+235,50,Female,196,96,130,71,270,135,Asthma,Non-smoker,Regularly,High,2017-06-24
+236,85,Male,164,63,143,67,103,156,Hypertension,Current smoker,Occasionally,Moderate,2018-09-07
+237,50,Male,174,87,109,83,100,148,Diabetes,Current smoker,Regularly,Low,2017-05-19
+238,31,Female,185,102,108,75,170,92,Heart Disease,Current smoker,Never,High,2015-07-13
+239,38,Male,160,110,173,109,277,150,Hypertension,Non-smoker,Regularly,Low,2023-06-24
+240,65,Male,164,85,155,63,288,117,Hypertension,Non-smoker,Never,High,2023-12-16
+241,37,Male,153,89,119,97,134,193,Asthma,Former smoker,Regularly,Low,2023-11-09
+242,25,Male,170,79,142,103,107,199,None,Former smoker,Never,Moderate,2019-09-23
+243,24,Male,162,58,123,86,251,153,None,Former smoker,Never,Low,2021-03-26
+244,84,Female,171,113,111,68,135,89,Hypertension,Former smoker,Occasionally,High,2021-12-31
+245,34,Male,168,82,156,106,277,115,Diabetes,Former smoker,Never,Low,2020-08-30
+246,50,Male,183,101,95,75,222,81,Heart Disease,Non-smoker,Occasionally,Moderate,2017-10-12
+247,65,Male,163,63,168,115,142,109,Heart Disease,Non-smoker,Regularly,Moderate,2022-12-02
+248,76,Male,153,102,116,71,126,135,Diabetes,Current smoker,Regularly,Low,2020-07-07
+249,39,Female,197,108,99,90,131,169,Hypertension,Current smoker,Regularly,High,2021-10-27
+250,47,Female,195,90,162,83,177,147,Heart Disease,Current smoker,Never,Moderate,2017-04-27
+251,55,Female,176,117,137,114,220,85,None,Current smoker,Regularly,Moderate,2016-02-08
+252,68,Female,178,117,159,73,245,152,Diabetes,Non-smoker,Regularly,Low,2020-12-25
+253,71,Male,196,57,148,104,255,113,Asthma,Non-smoker,Occasionally,Moderate,2020-11-15
+254,25,Female,177,51,148,84,256,169,Hypertension,Non-smoker,Occasionally,Moderate,2018-01-22
+255,44,Male,184,90,91,93,115,91,Diabetes,Former smoker,Regularly,High,2021-08-28
+256,44,Male,157,104,118,62,198,87,Heart Disease,Former smoker,Regularly,High,2016-05-01
+257,38,Male,165,65,157,117,146,81,Hypertension,Current smoker,Never,High,2017-06-13
+258,47,Male,191,111,154,83,286,192,None,Former smoker,Never,Low,2020-05-04
+259,45,Male,185,97,172,113,130,186,Hypertension,Non-smoker,Regularly,Moderate,2016-11-15
+260,81,Female,179,79,115,101,103,120,Hypertension,Current smoker,Occasionally,Low,2023-07-05
+261,86,Female,167,61,178,68,264,140,None,Current smoker,Regularly,Moderate,2022-03-01
+262,78,Female,151,84,99,85,116,117,None,Former smoker,Never,Moderate,2019-06-15
+263,65,Female,198,60,142,79,138,88,Hypertension,Current smoker,Occasionally,Moderate,2021-03-28
+264,36,Male,162,113,168,99,147,75,None,Former smoker,Occasionally,High,2021-06-12
+265,21,Female,153,99,148,69,273,153,Diabetes,Former smoker,Never,Low,2018-12-26
+266,52,Male,175,70,111,78,275,122,None,Current smoker,Regularly,Low,2015-10-19
+267,81,Female,174,118,140,62,138,176,None,Former smoker,Regularly,Moderate,2016-07-27
+268,66,Male,179,97,137,83,231,170,Hypertension,Former smoker,Regularly,Low,2018-07-20
+269,34,Male,160,69,110,64,129,117,Diabetes,Former smoker,Never,High,2018-05-23
+270,61,Female,156,116,111,62,257,138,Asthma,Former smoker,Occasionally,Low,2017-05-04
+271,47,Male,180,93,119,117,121,80,Asthma,Current smoker,Never,Moderate,2015-12-23
+272,63,Male,193,82,114,86,165,191,Heart Disease,Non-smoker,Regularly,High,2021-06-14
+273,23,Female,159,110,117,75,207,138,None,Non-smoker,Never,High,2015-12-27
+274,54,Male,188,58,154,108,111,92,None,Former smoker,Occasionally,Moderate,2022-07-26
+275,41,Female,162,117,134,74,135,106,Diabetes,Former smoker,Never,Low,2018-06-27
+276,63,Female,180,84,157,94,117,78,Asthma,Former smoker,Regularly,Moderate,2019-05-19
+277,70,Female,156,114,96,71,189,84,Heart Disease,Non-smoker,Occasionally,Low,2023-10-31
+278,77,Male,198,57,138,100,280,162,Diabetes,Former smoker,Never,Low,2019-02-08
+279,80,Male,191,94,98,112,298,86,None,Current smoker,Never,High,2019-04-09
+280,49,Male,191,96,125,103,100,141,Asthma,Current smoker,Occasionally,Moderate,2023-03-03
+281,50,Female,185,89,172,85,226,190,Heart Disease,Current smoker,Occasionally,High,2023-08-21
+282,84,Male,169,103,90,106,285,80,Hypertension,Non-smoker,Regularly,Moderate,2015-04-14
+283,35,Female,153,95,99,93,189,141,Asthma,Former smoker,Occasionally,Moderate,2019-06-26
+284,42,Female,156,96,125,82,186,175,Heart Disease,Former smoker,Regularly,High,2022-08-18
+285,71,Male,150,64,162,90,189,194,Diabetes,Former smoker,Never,Moderate,2017-06-18
+286,75,Female,193,68,135,109,233,104,Hypertension,Non-smoker,Regularly,Moderate,2022-11-01
+287,84,Male,194,75,121,79,169,188,Heart Disease,Non-smoker,Never,Low,2021-09-20
+288,63,Male,191,101,121,71,143,83,Heart Disease,Non-smoker,Occasionally,Moderate,2020-05-23
+289,41,Male,196,71,95,82,299,83,None,Non-smoker,Never,Moderate,2016-06-29
+290,49,Male,162,70,137,63,251,79,Asthma,Current smoker,Occasionally,High,2022-05-21
+291,64,Male,171,100,127,82,185,107,None,Non-smoker,Never,High,2021-06-03
+292,40,Female,170,87,106,107,118,177,Hypertension,Non-smoker,Never,Moderate,2019-05-25
+293,83,Female,171,69,163,114,200,188,Heart Disease,Non-smoker,Never,Low,2015-03-13
+294,44,Female,177,78,116,107,245,103,None,Former smoker,Never,Low,2023-09-08
+295,19,Male,158,100,143,60,194,79,Asthma,Former smoker,Regularly,High,2015-12-04
+296,34,Male,175,53,139,113,200,191,Hypertension,Former smoker,Never,Moderate,2023-05-17
+297,50,Male,158,104,124,84,129,184,Diabetes,Current smoker,Regularly,Moderate,2019-11-07
+298,26,Female,164,77,174,61,269,70,None,Current smoker,Occasionally,Low,2021-05-09
+299,60,Male,159,53,114,89,132,81,Hypertension,Non-smoker,Occasionally,Low,2018-09-03
+300,65,Female,173,71,117,62,111,172,Diabetes,Former smoker,Regularly,Low,2018-02-02
+301,56,Female,191,94,104,117,217,73,None,Current smoker,Occasionally,High,2016-08-24
+302,59,Male,157,116,93,80,193,167,Hypertension,Former smoker,Occasionally,Moderate,2015-06-09
+303,43,Male,173,115,162,84,254,175,Hypertension,Current smoker,Never,High,2015-01-10
+304,67,Female,165,83,116,79,266,154,None,Current smoker,Never,Moderate,2018-09-09
+305,42,Male,198,104,115,108,236,190,Hypertension,Non-smoker,Never,High,2023-08-09
+306,41,Female,175,50,108,111,248,151,Heart Disease,Non-smoker,Regularly,Moderate,2021-01-21
+307,30,Male,176,87,106,81,175,88,None,Current smoker,Regularly,Low,2021-10-11
+308,77,Male,186,55,132,80,128,199,Hypertension,Non-smoker,Occasionally,Low,2020-03-27
+309,24,Female,153,74,130,92,260,81,Diabetes,Current smoker,Never,Low,2018-01-30
+310,74,Male,199,66,131,111,289,150,Diabetes,Current smoker,Regularly,High,2021-05-19
+311,53,Female,173,110,139,97,216,143,Heart Disease,Former smoker,Regularly,Low,2022-08-16
+312,62,Male,168,61,173,74,114,167,None,Non-smoker,Never,Moderate,2019-11-12
+313,37,Female,185,55,129,117,101,75,Hypertension,Non-smoker,Regularly,High,2020-07-06
+314,82,Female,188,76,128,117,279,194,Hypertension,Non-smoker,Never,Moderate,2015-11-26
+315,25,Male,159,57,112,105,216,120,Diabetes,Former smoker,Occasionally,High,2018-10-14
+316,33,Female,174,114,141,111,271,80,Heart Disease,Former smoker,Occasionally,Moderate,2016-06-04
+317,31,Male,167,106,136,74,281,196,Diabetes,Former smoker,Occasionally,Moderate,2016-05-09
+318,32,Male,168,89,152,105,117,142,Diabetes,Non-smoker,Never,High,2017-09-11
+319,83,Male,185,63,158,84,102,71,Heart Disease,Non-smoker,Regularly,High,2023-09-16
+320,49,Female,159,84,132,80,234,77,None,Non-smoker,Occasionally,Low,2021-11-07
+321,80,Female,182,97,137,83,270,193,Hypertension,Former smoker,Occasionally,Low,2021-02-08
+322,68,Male,199,105,123,116,265,122,None,Former smoker,Occasionally,Moderate,2021-02-02
+323,42,Male,154,98,129,117,264,79,Asthma,Current smoker,Regularly,Moderate,2016-10-01
+324,75,Female,196,62,164,64,285,181,Asthma,Former smoker,Regularly,Moderate,2023-01-26
+325,80,Male,198,110,150,65,260,77,Asthma,Current smoker,Never,High,2018-02-04
+326,79,Male,184,98,139,108,207,105,Heart Disease,Non-smoker,Occasionally,High,2023-08-01
+327,39,Female,193,95,156,102,286,175,Diabetes,Former smoker,Regularly,Low,2023-08-24
+328,75,Male,183,111,151,107,194,83,None,Non-smoker,Never,Moderate,2019-10-31
+329,75,Female,182,57,147,103,221,155,Hypertension,Non-smoker,Occasionally,Low,2023-05-19
+330,66,Male,170,92,122,106,110,119,Asthma,Non-smoker,Regularly,High,2021-01-26
+331,69,Female,166,69,164,82,167,89,None,Non-smoker,Regularly,High,2021-12-17
+332,59,Male,171,88,105,63,222,156,Asthma,Former smoker,Never,High,2021-07-17
+333,87,Male,197,98,171,86,295,198,Asthma,Non-smoker,Occasionally,Low,2015-10-26
+334,32,Female,186,113,137,77,212,107,Hypertension,Current smoker,Occasionally,High,2016-03-21
+335,71,Male,164,111,99,80,197,113,Heart Disease,Former smoker,Regularly,Moderate,2019-12-31
+336,77,Female,184,103,171,87,192,155,Diabetes,Non-smoker,Occasionally,Low,2016-03-18
+337,25,Male,177,58,127,94,121,113,Heart Disease,Former smoker,Never,High,2022-07-27
+338,70,Female,156,86,108,81,293,143,None,Current smoker,Regularly,Low,2019-11-22
+339,77,Female,181,98,125,99,271,188,Heart Disease,Non-smoker,Regularly,Low,2017-08-27
+340,22,Female,160,90,148,82,226,191,None,Current smoker,Never,High,2015-09-07
+341,85,Female,159,66,152,62,233,120,None,Non-smoker,Regularly,High,2022-11-30
+342,23,Male,158,70,166,99,269,107,Diabetes,Current smoker,Occasionally,Low,2022-01-09
+343,64,Male,163,100,135,109,124,120,Hypertension,Non-smoker,Occasionally,Low,2019-08-07
+344,72,Female,162,108,92,69,284,79,Diabetes,Former smoker,Regularly,High,2022-01-03
+345,57,Female,174,88,163,84,184,189,Heart Disease,Non-smoker,Never,Moderate,2023-06-07
+346,69,Female,151,104,154,111,154,139,None,Former smoker,Never,Low,2020-10-26
+347,33,Male,184,90,97,108,243,154,Asthma,Non-smoker,Occasionally,Low,2022-03-04
+348,30,Male,156,88,140,67,194,126,Asthma,Non-smoker,Never,Moderate,2017-01-26
+349,47,Male,170,62,170,114,241,195,None,Current smoker,Regularly,High,2023-03-13
+350,36,Male,167,113,162,70,266,108,Diabetes,Current smoker,Regularly,High,2016-11-28
+351,34,Female,152,60,95,64,255,102,Hypertension,Current smoker,Occasionally,Moderate,2020-12-14
+352,80,Female,191,68,178,117,278,87,Diabetes,Non-smoker,Occasionally,High,2023-01-30
+353,36,Female,188,60,128,104,218,126,None,Non-smoker,Occasionally,High,2023-04-22
+354,75,Male,190,95,149,112,276,165,None,Non-smoker,Never,Low,2021-06-09
+355,72,Male,198,94,117,114,108,117,Hypertension,Former smoker,Regularly,Low,2015-08-24
+356,79,Male,160,50,143,96,285,111,Heart Disease,Former smoker,Regularly,Low,2017-07-26
+357,40,Female,188,89,126,115,272,96,Heart Disease,Non-smoker,Regularly,Moderate,2019-05-08
+358,26,Female,173,68,98,118,249,143,Hypertension,Current smoker,Occasionally,High,2016-07-23
+359,29,Male,195,110,171,104,259,179,Heart Disease,Current smoker,Regularly,High,2021-10-29
+360,18,Female,168,61,145,97,296,101,Asthma,Current smoker,Never,Low,2017-11-03
+361,75,Male,153,110,148,88,296,95,Heart Disease,Non-smoker,Never,Low,2017-08-31
+362,18,Male,175,82,174,64,141,94,Heart Disease,Current smoker,Regularly,Moderate,2022-10-16
+363,51,Female,187,94,91,68,152,144,Heart Disease,Non-smoker,Occasionally,High,2023-07-03
+364,65,Male,191,118,150,118,286,92,Asthma,Former smoker,Regularly,Moderate,2017-07-17
+365,18,Female,181,57,147,107,173,126,Heart Disease,Current smoker,Never,High,2022-03-30
+366,33,Male,188,74,149,61,138,195,Asthma,Former smoker,Never,Moderate,2022-09-25
+367,78,Female,194,95,129,60,221,156,Hypertension,Current smoker,Never,Low,2018-03-22
+368,81,Female,195,79,125,99,114,100,Diabetes,Non-smoker,Regularly,Moderate,2017-09-27
+369,80,Female,185,96,126,119,298,133,Hypertension,Non-smoker,Never,Moderate,2021-03-03
+370,86,Male,189,98,168,110,256,102,Diabetes,Non-smoker,Occasionally,Low,2022-10-09
+371,39,Male,186,96,107,89,222,71,Hypertension,Non-smoker,Regularly,High,2022-09-19
+372,84,Female,182,67,152,70,210,87,Diabetes,Current smoker,Regularly,High,2022-02-14
+373,43,Female,185,115,111,87,230,153,Diabetes,Former smoker,Never,Low,2020-01-28
+374,33,Male,152,117,100,103,182,104,None,Non-smoker,Never,Moderate,2022-10-13
+375,68,Male,158,82,147,71,109,183,Diabetes,Current smoker,Occasionally,Moderate,2017-11-14
+376,74,Male,157,85,146,98,191,179,Diabetes,Former smoker,Regularly,Moderate,2021-08-20
+377,46,Female,182,68,166,85,128,157,None,Non-smoker,Never,High,2015-07-03
+378,86,Male,155,77,93,72,134,141,Heart Disease,Former smoker,Occasionally,Moderate,2019-08-16
+379,64,Male,190,89,175,118,105,194,Heart Disease,Non-smoker,Never,High,2023-11-14
+380,79,Female,188,64,96,67,239,99,None,Former smoker,Regularly,Moderate,2022-04-14
+381,86,Male,153,90,150,113,210,122,Asthma,Former smoker,Never,Low,2019-04-02
+382,33,Male,162,88,143,87,137,156,Diabetes,Non-smoker,Regularly,Low,2023-03-17
+383,65,Male,198,51,177,117,176,82,Diabetes,Current smoker,Never,High,2019-01-26
+384,56,Female,151,112,157,89,192,109,None,Former smoker,Regularly,High,2020-02-01
+385,50,Female,154,78,168,68,246,158,None,Non-smoker,Occasionally,Low,2022-07-04
+386,40,Female,193,115,90,98,166,137,Asthma,Former smoker,Regularly,Low,2017-11-02
+387,27,Female,176,100,144,90,235,111,Heart Disease,Former smoker,Occasionally,Moderate,2016-08-15
+388,86,Female,181,59,92,117,107,163,Hypertension,Current smoker,Regularly,Low,2017-12-12
+389,51,Female,170,63,167,80,221,88,Heart Disease,Former smoker,Occasionally,High,2015-10-09
+390,69,Female,157,100,127,115,183,92,Diabetes,Former smoker,Never,Low,2017-10-24
+391,27,Male,187,88,90,106,274,123,None,Non-smoker,Regularly,High,2016-08-30
+392,36,Male,157,77,127,93,231,134,Asthma,Non-smoker,Never,High,2017-12-05
+393,75,Female,199,52,174,114,278,93,Heart Disease,Current smoker,Occasionally,Moderate,2017-10-07
+394,18,Male,152,119,118,90,184,103,Asthma,Former smoker,Regularly,Moderate,2021-10-12
+395,86,Male,193,76,94,111,294,122,Heart Disease,Former smoker,Regularly,Moderate,2022-05-05
+396,21,Female,152,51,163,84,144,87,Diabetes,Former smoker,Never,Moderate,2016-02-05
+397,33,Male,171,87,110,71,235,126,Hypertension,Current smoker,Regularly,Low,2021-01-29
+398,41,Male,155,52,160,60,186,181,Asthma,Former smoker,Regularly,Moderate,2017-11-09
+399,19,Male,151,65,156,114,115,74,Asthma,Non-smoker,Never,Low,2017-06-12
+400,49,Male,172,89,136,81,176,82,Hypertension,Current smoker,Regularly,Moderate,2015-02-20
+401,41,Male,193,51,173,99,294,152,Asthma,Non-smoker,Never,Moderate,2022-04-20
+402,29,Female,151,90,172,96,108,98,Asthma,Non-smoker,Never,High,2016-04-16
+403,67,Female,187,61,124,106,159,72,Heart Disease,Current smoker,Never,Low,2019-03-01
+404,52,Female,166,84,157,60,177,159,Heart Disease,Non-smoker,Never,High,2018-08-27
+405,50,Male,184,114,158,60,176,173,Hypertension,Former smoker,Never,Moderate,2019-10-19
+406,50,Female,183,104,90,116,170,192,Diabetes,Current smoker,Occasionally,Low,2022-02-23
+407,78,Male,172,94,157,101,114,145,Asthma,Non-smoker,Occasionally,Moderate,2019-10-04
+408,68,Male,179,111,101,113,170,199,Diabetes,Former smoker,Never,High,2017-04-12
+409,60,Male,157,98,149,101,201,177,Hypertension,Former smoker,Occasionally,Low,2016-07-01
+410,29,Male,171,74,116,80,268,151,Hypertension,Non-smoker,Occasionally,High,2017-01-12
+411,84,Female,193,72,145,74,121,146,Heart Disease,Former smoker,Regularly,Moderate,2018-06-19
+412,82,Female,185,73,112,76,251,71,Asthma,Current smoker,Never,Moderate,2020-12-01
+413,50,Male,154,87,114,81,212,196,None,Non-smoker,Occasionally,Moderate,2015-05-10
+414,57,Female,162,77,110,97,271,95,Hypertension,Former smoker,Regularly,Low,2015-08-25
+415,60,Male,178,70,150,94,100,157,Asthma,Former smoker,Regularly,High,2016-08-05
+416,61,Female,180,103,152,104,109,85,Diabetes,Non-smoker,Never,High,2021-06-20
+417,46,Female,196,67,141,75,209,142,Heart Disease,Non-smoker,Never,Moderate,2022-03-25
+418,30,Male,165,85,177,67,299,101,Diabetes,Non-smoker,Regularly,High,2016-04-30
+419,29,Female,191,94,114,106,283,84,Hypertension,Non-smoker,Never,Low,2016-08-07
+420,63,Male,179,102,144,76,212,74,Hypertension,Current smoker,Never,Moderate,2018-06-19
+421,19,Female,165,79,135,76,149,143,Diabetes,Non-smoker,Regularly,Moderate,2023-05-15
+422,52,Male,161,109,121,113,111,121,Hypertension,Current smoker,Regularly,Moderate,2017-02-19
+423,25,Male,166,81,144,85,188,146,Asthma,Current smoker,Never,Low,2022-09-08
+424,43,Female,165,116,94,72,287,179,Hypertension,Non-smoker,Occasionally,Moderate,2023-07-02
+425,51,Female,161,116,125,76,253,175,Heart Disease,Current smoker,Never,Moderate,2023-07-20
+426,24,Male,157,77,138,97,211,196,Asthma,Non-smoker,Occasionally,Moderate,2019-11-19
+427,85,Female,169,93,147,76,177,76,None,Non-smoker,Regularly,Moderate,2022-12-03
+428,75,Female,152,90,128,107,268,109,Hypertension,Former smoker,Occasionally,High,2016-09-16
+429,46,Male,165,112,169,73,263,168,Hypertension,Non-smoker,Regularly,Moderate,2019-01-18
+430,53,Male,179,72,174,104,220,154,Heart Disease,Former smoker,Never,Low,2015-01-16
+431,38,Female,194,97,150,65,122,134,Heart Disease,Current smoker,Never,Moderate,2015-03-25
+432,53,Male,172,81,98,94,270,80,Diabetes,Former smoker,Regularly,Moderate,2023-08-07
+433,27,Male,177,106,95,105,233,177,Diabetes,Current smoker,Regularly,High,2019-02-21
+434,41,Male,189,82,124,73,296,95,Diabetes,Non-smoker,Regularly,Moderate,2018-05-21
+435,81,Female,154,73,128,106,270,154,Heart Disease,Current smoker,Never,High,2021-07-31
+436,66,Female,169,88,111,67,124,192,Diabetes,Current smoker,Never,Low,2018-01-08
+437,53,Male,189,83,130,74,117,137,Diabetes,Non-smoker,Occasionally,High,2016-02-07
+438,41,Female,193,105,94,113,289,173,None,Current smoker,Regularly,Moderate,2022-09-30
+439,40,Male,150,77,131,86,240,149,Diabetes,Non-smoker,Occasionally,Low,2015-04-24
+440,79,Female,179,86,176,72,142,122,Hypertension,Former smoker,Never,Moderate,2022-01-05
+441,54,Male,170,56,170,108,177,175,Heart Disease,Non-smoker,Occasionally,High,2022-07-12
+442,29,Male,169,117,165,90,127,113,Asthma,Non-smoker,Occasionally,Low,2016-08-01
+443,72,Female,155,86,176,112,245,159,None,Current smoker,Never,Low,2020-11-06
+444,30,Male,171,105,169,115,158,170,Heart Disease,Former smoker,Never,High,2022-04-06
+445,40,Female,167,114,156,94,287,166,Heart Disease,Non-smoker,Regularly,High,2019-08-23
+446,47,Female,157,114,119,119,162,78,Hypertension,Former smoker,Occasionally,Low,2023-02-11
+447,34,Male,188,96,146,65,284,81,Diabetes,Former smoker,Never,Low,2021-12-12
+448,79,Male,181,69,175,64,191,138,Hypertension,Current smoker,Never,High,2019-08-03
+449,30,Female,182,68,162,81,278,97,Diabetes,Non-smoker,Occasionally,Moderate,2015-01-26
+450,76,Male,165,78,118,117,155,125,Diabetes,Current smoker,Never,Low,2021-06-01
+451,36,Male,161,109,126,108,254,168,Heart Disease,Non-smoker,Regularly,High,2023-10-31
+452,66,Male,187,67,176,82,259,179,Diabetes,Former smoker,Regularly,Moderate,2021-07-04
+453,29,Male,183,84,102,84,210,146,None,Non-smoker,Occasionally,Low,2022-06-16
+454,78,Male,163,92,121,93,236,172,None,Non-smoker,Regularly,Low,2017-03-02
+455,36,Female,185,60,135,85,167,175,None,Former smoker,Never,High,2017-08-25
+456,26,Female,182,98,112,106,145,178,Heart Disease,Former smoker,Never,Moderate,2022-10-19
+457,88,Male,172,87,134,64,166,181,Hypertension,Non-smoker,Never,Low,2023-02-24
+458,45,Male,199,113,106,85,253,127,Asthma,Current smoker,Never,Moderate,2015-07-26
+459,69,Male,194,118,174,79,235,147,Diabetes,Non-smoker,Occasionally,Moderate,2020-07-28
+460,33,Female,151,57,155,65,105,144,Asthma,Former smoker,Regularly,Low,2018-12-14
+461,86,Male,190,83,95,65,123,111,Hypertension,Current smoker,Regularly,Moderate,2015-03-16
+462,29,Female,170,97,107,118,275,137,Hypertension,Former smoker,Never,Low,2023-09-18
+463,42,Female,151,105,111,109,193,102,Heart Disease,Former smoker,Occasionally,Moderate,2017-02-26
+464,69,Female,176,114,122,77,272,140,None,Current smoker,Never,Low,2016-07-12
+465,70,Male,158,80,119,63,112,125,None,Former smoker,Never,High,2018-10-29
+466,40,Female,150,53,170,76,296,174,Hypertension,Former smoker,Occasionally,Low,2023-02-28
+467,33,Male,160,99,121,116,124,170,Heart Disease,Former smoker,Occasionally,Low,2016-12-16
+468,74,Female,152,118,131,73,247,120,Heart Disease,Former smoker,Never,Low,2023-12-14
+469,56,Male,172,79,167,73,217,143,Diabetes,Former smoker,Regularly,Moderate,2022-01-01
+470,70,Female,175,108,99,72,181,190,None,Former smoker,Never,High,2018-09-16
+471,59,Male,153,116,125,66,210,74,Hypertension,Former smoker,Regularly,Moderate,2017-10-16
+472,75,Female,167,94,123,103,181,152,Asthma,Former smoker,Regularly,Moderate,2022-09-09
+473,56,Male,155,53,162,114,165,120,None,Former smoker,Occasionally,Low,2022-04-03
+474,31,Male,184,75,117,74,144,79,Diabetes,Non-smoker,Occasionally,Moderate,2020-09-06
+475,22,Male,171,76,100,78,213,73,Heart Disease,Non-smoker,Never,Low,2019-09-09
+476,52,Male,192,95,167,102,274,164,Hypertension,Former smoker,Regularly,High,2016-06-15
+477,35,Female,164,113,128,106,162,149,None,Non-smoker,Regularly,Moderate,2016-06-23
+478,26,Female,171,100,136,103,175,105,Asthma,Current smoker,Never,Moderate,2023-04-08
+479,75,Male,186,99,108,94,213,94,Diabetes,Non-smoker,Never,Moderate,2023-06-12
+480,34,Female,191,55,104,76,210,167,Diabetes,Former smoker,Never,Low,2019-06-10
+481,24,Male,161,108,117,94,282,170,None,Former smoker,Occasionally,Low,2015-06-06
+482,63,Male,196,64,113,78,246,78,Asthma,Non-smoker,Never,Moderate,2022-05-10
+483,30,Female,198,79,161,79,134,130,Diabetes,Former smoker,Never,Moderate,2018-03-27
+484,57,Male,191,91,98,95,152,122,Hypertension,Current smoker,Regularly,High,2015-12-28
+485,59,Male,187,86,136,94,125,132,Diabetes,Current smoker,Never,High,2019-08-22
+486,26,Female,167,91,122,91,113,190,Asthma,Former smoker,Regularly,High,2021-12-05
+487,67,Male,194,84,151,117,217,174,Heart Disease,Current smoker,Regularly,High,2016-08-29
+488,44,Male,184,55,108,107,144,73,Heart Disease,Current smoker,Occasionally,High,2023-05-04
+489,83,Male,179,117,156,103,271,162,None,Non-smoker,Never,Low,2020-07-26
+490,22,Male,173,67,163,99,292,97,Asthma,Current smoker,Never,High,2023-07-05
+491,46,Female,191,78,129,83,150,149,Diabetes,Non-smoker,Regularly,High,2015-03-08
+492,54,Female,179,108,136,76,270,145,Diabetes,Former smoker,Occasionally,Moderate,2015-04-06
+493,55,Female,163,96,154,66,218,185,Heart Disease,Non-smoker,Occasionally,Low,2020-10-31
+494,25,Male,155,66,118,102,250,138,Heart Disease,Former smoker,Never,High,2015-06-20
+495,82,Male,152,71,139,109,283,167,Hypertension,Former smoker,Regularly,High,2016-04-15
+496,34,Female,165,117,102,60,118,70,Heart Disease,Former smoker,Never,High,2019-11-28
+497,88,Male,156,118,90,94,181,165,Hypertension,Former smoker,Never,Moderate,2022-03-13
+498,62,Male,163,86,123,91,175,86,Diabetes,Former smoker,Never,Moderate,2015-07-08
+499,21,Male,158,98,137,95,282,181,Hypertension,Non-smoker,Never,Moderate,2021-10-30
+500,53,Male,164,62,166,72,191,160,Hypertension,Former smoker,Regularly,High,2018-02-15
+501,87,Female,170,83,137,65,287,157,None,Current smoker,Occasionally,Moderate,2020-04-01
+502,48,Female,184,102,138,117,286,159,Heart Disease,Current smoker,Never,High,2021-03-30
+503,36,Female,151,100,153,73,132,118,Hypertension,Former smoker,Never,Low,2018-04-16
+504,78,Male,176,52,150,96,246,107,Diabetes,Current smoker,Never,High,2018-01-06
+505,71,Female,151,91,118,107,127,128,Asthma,Non-smoker,Never,Moderate,2016-11-13
+506,56,Female,184,81,128,74,222,137,Hypertension,Non-smoker,Occasionally,Low,2019-10-19
+507,36,Male,167,100,177,106,279,199,Heart Disease,Former smoker,Occasionally,High,2022-01-03
+508,56,Male,163,95,115,63,225,118,None,Former smoker,Occasionally,Low,2017-11-02
+509,84,Female,169,70,106,99,276,195,Diabetes,Former smoker,Occasionally,Low,2019-05-08
+510,62,Female,167,93,160,118,136,180,None,Current smoker,Never,Low,2017-11-09
+511,30,Female,159,60,102,75,253,117,Asthma,Current smoker,Regularly,High,2021-08-07
+512,75,Female,174,117,158,87,198,120,Hypertension,Non-smoker,Occasionally,Moderate,2022-01-09
+513,37,Male,151,50,115,75,197,112,Hypertension,Current smoker,Occasionally,High,2022-12-02
+514,89,Female,174,112,138,63,226,167,Heart Disease,Non-smoker,Never,Moderate,2017-01-13
+515,78,Female,182,73,156,104,267,193,Hypertension,Current smoker,Never,High,2016-04-29
+516,56,Male,185,62,96,85,179,149,Diabetes,Non-smoker,Never,High,2019-05-24
+517,18,Female,180,60,147,87,137,180,Asthma,Former smoker,Never,High,2022-09-19
+518,20,Male,163,100,138,91,176,96,None,Current smoker,Regularly,Moderate,2019-06-19
+519,79,Male,150,66,142,104,225,182,Asthma,Non-smoker,Regularly,High,2021-06-25
+520,80,Male,195,73,154,61,186,155,Hypertension,Current smoker,Occasionally,Low,2020-02-03
+521,42,Female,165,68,151,90,153,183,None,Former smoker,Regularly,High,2015-01-17
+522,73,Female,195,86,106,62,249,193,Heart Disease,Non-smoker,Occasionally,Low,2020-12-28
+523,50,Male,152,57,132,113,115,118,Asthma,Current smoker,Occasionally,Moderate,2015-02-25
+524,55,Female,184,77,114,67,127,145,None,Current smoker,Regularly,Moderate,2020-10-05
+525,23,Female,190,54,92,83,262,124,None,Former smoker,Occasionally,High,2022-11-17
+526,75,Male,155,66,168,74,287,125,None,Former smoker,Never,High,2018-07-29
+527,61,Male,174,85,118,102,272,164,Diabetes,Non-smoker,Occasionally,High,2017-11-21
+528,62,Female,162,68,121,90,145,113,Asthma,Current smoker,Never,Low,2015-09-02
+529,49,Male,183,113,115,68,171,156,None,Current smoker,Regularly,Moderate,2023-07-19
+530,62,Female,157,60,105,98,282,153,Asthma,Former smoker,Regularly,Low,2023-09-20
+531,78,Female,170,103,114,104,184,85,None,Former smoker,Occasionally,Low,2020-04-25
+532,64,Female,183,94,143,61,125,106,Heart Disease,Non-smoker,Never,High,2015-02-27
+533,38,Female,153,96,117,67,184,146,Heart Disease,Current smoker,Occasionally,High,2022-10-03
+534,53,Male,174,61,162,66,252,114,Heart Disease,Current smoker,Regularly,Low,2019-08-06
+535,36,Male,164,70,145,115,164,131,Hypertension,Non-smoker,Occasionally,Low,2016-09-23
+536,37,Male,153,60,154,103,233,169,None,Non-smoker,Occasionally,High,2021-04-25
+537,74,Male,194,54,175,110,250,121,Hypertension,Former smoker,Never,High,2019-05-31
+538,35,Female,161,105,169,98,214,88,Asthma,Former smoker,Regularly,Low,2018-03-10
+539,64,Female,181,69,130,101,163,178,Hypertension,Non-smoker,Occasionally,High,2016-01-21
+540,66,Male,181,90,140,116,186,113,Asthma,Non-smoker,Never,High,2021-02-15
+541,31,Female,177,95,160,75,270,76,Asthma,Current smoker,Occasionally,Low,2019-04-13
+542,32,Female,162,61,167,94,206,186,Asthma,Non-smoker,Never,Low,2018-04-29
+543,48,Female,180,119,118,89,250,137,Hypertension,Non-smoker,Never,Moderate,2021-05-05
+544,18,Male,163,66,172,69,195,103,None,Current smoker,Occasionally,Low,2016-04-18
+545,71,Male,169,68,108,97,257,138,Hypertension,Non-smoker,Regularly,High,2021-10-21
+546,20,Male,167,75,155,77,176,124,None,Former smoker,Regularly,Low,2022-06-24
+547,33,Female,178,97,130,109,245,79,None,Former smoker,Never,Low,2021-08-22
+548,74,Male,155,101,134,64,186,111,Asthma,Current smoker,Regularly,Low,2023-03-16
+549,29,Male,181,119,104,112,248,110,Hypertension,Non-smoker,Never,Moderate,2017-06-01
+550,33,Male,178,104,92,88,156,191,None,Former smoker,Regularly,Moderate,2019-09-05
+551,89,Male,192,82,100,98,202,79,Heart Disease,Former smoker,Occasionally,High,2023-05-30
+552,41,Male,151,111,142,119,250,171,None,Former smoker,Regularly,Moderate,2016-09-15
+553,45,Male,172,72,135,93,190,197,Heart Disease,Former smoker,Never,Low,2018-12-07
+554,25,Female,168,64,119,102,144,161,Hypertension,Non-smoker,Never,Moderate,2023-09-25
+555,53,Female,180,76,146,104,271,182,Hypertension,Non-smoker,Regularly,Low,2019-05-12
+556,25,Male,154,113,107,82,187,147,Hypertension,Non-smoker,Occasionally,Moderate,2016-07-13
+557,75,Male,168,100,140,64,214,154,None,Non-smoker,Never,Moderate,2018-08-05
+558,77,Female,183,102,137,89,146,99,Diabetes,Former smoker,Never,Moderate,2022-02-13
+559,67,Female,159,100,155,65,267,118,None,Current smoker,Never,Low,2021-02-18
+560,45,Male,174,96,97,115,278,78,None,Current smoker,Never,Moderate,2019-12-19
+561,58,Male,151,53,111,117,269,138,Asthma,Former smoker,Never,Low,2018-01-29
+562,81,Male,160,56,95,105,234,127,Asthma,Former smoker,Occasionally,Low,2023-02-17
+563,44,Male,199,84,165,103,149,131,None,Current smoker,Regularly,High,2015-05-10
+564,80,Female,180,97,146,63,275,121,Heart Disease,Current smoker,Occasionally,Moderate,2023-06-29
+565,34,Male,164,94,125,88,183,109,Asthma,Former smoker,Occasionally,High,2022-09-05
+566,50,Male,158,68,168,82,190,132,None,Former smoker,Never,High,2017-04-06
+567,46,Male,172,112,146,65,233,119,Diabetes,Non-smoker,Occasionally,Low,2019-08-26
+568,30,Male,168,87,138,91,190,147,Heart Disease,Non-smoker,Never,Moderate,2023-12-16
+569,63,Female,158,116,134,101,236,166,Hypertension,Current smoker,Occasionally,Low,2019-06-18
+570,52,Female,184,108,171,77,208,112,None,Former smoker,Never,Low,2023-02-08
+571,23,Female,170,118,155,74,156,105,None,Current smoker,Never,Moderate,2021-10-05
+572,86,Male,158,62,166,99,130,191,Heart Disease,Non-smoker,Occasionally,Low,2016-05-19
+573,64,Male,177,96,134,117,120,177,Asthma,Non-smoker,Occasionally,Moderate,2021-09-18
+574,42,Female,195,110,168,91,189,79,Asthma,Current smoker,Regularly,Moderate,2022-11-07
+575,83,Male,156,80,109,68,139,164,Asthma,Non-smoker,Regularly,Low,2022-10-25
+576,27,Male,165,71,153,96,211,75,Hypertension,Former smoker,Regularly,Low,2017-02-11
+577,73,Female,165,92,156,69,144,126,Heart Disease,Current smoker,Occasionally,High,2023-09-11
+578,47,Female,182,116,172,79,176,198,Heart Disease,Former smoker,Occasionally,Low,2015-01-06
+579,22,Female,153,103,92,65,276,140,Asthma,Former smoker,Never,Moderate,2020-12-31
+580,50,Female,153,59,143,107,186,90,Asthma,Non-smoker,Regularly,High,2018-04-07
+581,82,Male,188,91,167,115,247,161,Diabetes,Former smoker,Never,Moderate,2020-12-01
+582,35,Male,189,113,153,118,200,196,Diabetes,Current smoker,Never,High,2017-04-09
+583,66,Female,166,70,129,62,216,149,None,Former smoker,Never,Low,2017-01-10
+584,28,Male,186,115,148,101,191,125,None,Former smoker,Never,Low,2019-11-13
+585,43,Female,188,90,144,70,244,185,Heart Disease,Former smoker,Regularly,Low,2019-06-24
+586,80,Female,178,73,151,102,127,94,Heart Disease,Former smoker,Never,Moderate,2023-06-12
+587,76,Male,185,84,93,76,268,74,Hypertension,Former smoker,Occasionally,High,2021-02-09
+588,44,Female,187,105,149,91,293,189,Hypertension,Non-smoker,Occasionally,Moderate,2022-12-11
+589,66,Male,188,79,164,63,124,90,Diabetes,Current smoker,Occasionally,High,2017-09-15
+590,50,Male,199,106,119,63,157,87,None,Non-smoker,Regularly,Low,2016-01-20
+591,18,Male,186,96,91,76,140,126,Diabetes,Current smoker,Never,Moderate,2017-05-13
+592,38,Male,184,84,151,100,233,162,Diabetes,Current smoker,Regularly,Low,2018-06-23
+593,72,Female,156,68,138,78,174,88,None,Current smoker,Never,Moderate,2019-02-18
+594,23,Male,176,57,98,64,137,197,Hypertension,Current smoker,Regularly,Low,2016-01-29
+595,86,Female,177,75,120,91,233,166,None,Current smoker,Regularly,Moderate,2023-12-24
+596,22,Female,171,79,150,81,272,90,Asthma,Former smoker,Never,Moderate,2015-07-05
+597,20,Female,163,56,168,115,174,109,Asthma,Non-smoker,Regularly,High,2019-03-12
+598,70,Female,156,116,137,65,241,136,Asthma,Non-smoker,Never,Low,2020-01-22
+599,40,Male,186,114,114,94,165,196,Heart Disease,Former smoker,Occasionally,High,2016-08-21
+600,70,Male,171,85,125,81,267,124,Hypertension,Current smoker,Occasionally,High,2021-05-21
+601,54,Female,154,74,97,60,102,178,Hypertension,Non-smoker,Occasionally,Low,2020-02-01
+602,34,Female,151,86,162,79,216,167,Heart Disease,Former smoker,Regularly,Moderate,2015-09-20
+603,18,Male,176,50,147,81,198,181,Diabetes,Former smoker,Occasionally,High,2018-06-11
+604,68,Female,170,64,134,107,251,184,Asthma,Non-smoker,Never,Low,2017-08-25
+605,62,Male,187,86,151,114,118,186,Asthma,Non-smoker,Occasionally,Moderate,2021-03-07
+606,21,Female,164,62,128,70,245,156,Diabetes,Current smoker,Occasionally,High,2023-06-26
+607,79,Male,170,57,147,72,291,150,None,Current smoker,Regularly,High,2015-01-03
+608,82,Female,159,54,170,118,215,135,None,Non-smoker,Never,High,2021-09-22
+609,49,Female,172,109,172,101,224,88,Hypertension,Current smoker,Regularly,Moderate,2016-11-28
+610,51,Male,188,50,153,62,187,187,Heart Disease,Former smoker,Regularly,High,2017-03-09
+611,89,Female,154,85,133,68,134,111,Hypertension,Current smoker,Never,Moderate,2015-05-05
+612,56,Female,150,84,118,119,289,111,None,Current smoker,Regularly,High,2019-02-25
+613,43,Male,162,115,148,71,100,128,Diabetes,Former smoker,Never,Low,2018-08-24
+614,51,Female,170,112,160,82,252,89,Hypertension,Current smoker,Occasionally,High,2018-01-25
+615,71,Male,175,72,98,73,272,142,Asthma,Former smoker,Never,Low,2019-07-19
+616,20,Male,199,58,95,92,276,86,Asthma,Current smoker,Never,Low,2016-05-22
+617,67,Female,194,83,118,77,225,96,Diabetes,Non-smoker,Never,Low,2015-04-02
+618,29,Female,170,95,147,108,188,71,None,Current smoker,Regularly,Moderate,2019-01-06
+619,82,Female,167,53,106,118,243,132,Asthma,Non-smoker,Never,Low,2016-01-12
+620,71,Female,186,79,105,100,246,131,Asthma,Non-smoker,Never,High,2015-12-10
+621,22,Female,194,52,176,68,250,169,Heart Disease,Non-smoker,Never,Moderate,2017-04-06
+622,74,Female,181,63,92,82,124,88,Hypertension,Non-smoker,Occasionally,Low,2016-03-26
+623,34,Female,185,109,110,69,115,86,None,Non-smoker,Never,Moderate,2019-04-23
+624,64,Male,166,94,153,78,281,138,Hypertension,Former smoker,Regularly,Moderate,2016-05-01
+625,40,Female,184,83,179,106,172,186,None,Former smoker,Never,Moderate,2020-01-12
+626,31,Male,198,94,125,64,228,150,Asthma,Former smoker,Never,High,2023-07-28
+627,83,Female,160,110,175,106,141,108,Heart Disease,Non-smoker,Occasionally,Low,2018-09-13
+628,68,Female,170,65,151,111,246,105,Hypertension,Current smoker,Never,Moderate,2022-01-16
+629,55,Male,175,115,131,82,261,98,Asthma,Former smoker,Regularly,Moderate,2015-04-19
+630,81,Female,153,89,165,89,179,120,None,Current smoker,Never,Moderate,2015-09-27
+631,55,Female,183,66,131,84,203,83,Hypertension,Current smoker,Regularly,Low,2016-07-25
+632,67,Male,197,83,150,87,282,138,Hypertension,Non-smoker,Occasionally,Moderate,2016-04-14
+633,47,Female,167,65,102,93,245,126,Asthma,Non-smoker,Never,Moderate,2015-01-24
+634,68,Female,189,109,100,104,133,81,Hypertension,Non-smoker,Occasionally,High,2023-03-13
+635,80,Female,184,115,143,115,188,86,Heart Disease,Former smoker,Never,Low,2019-08-21
+636,69,Male,190,115,105,107,224,99,Heart Disease,Non-smoker,Regularly,High,2022-12-18
+637,55,Female,178,62,97,106,144,157,Asthma,Former smoker,Occasionally,Low,2019-10-10
+638,47,Female,178,105,148,84,233,168,None,Former smoker,Never,Low,2015-04-11
+639,68,Female,187,80,146,69,120,92,Asthma,Former smoker,Regularly,Low,2018-07-07
+640,22,Female,191,83,129,73,221,198,Heart Disease,Former smoker,Occasionally,High,2016-11-26
+641,46,Male,170,88,148,101,169,148,Diabetes,Non-smoker,Never,High,2022-11-17
+642,21,Male,191,116,91,116,195,101,Diabetes,Former smoker,Occasionally,High,2020-06-14
+643,27,Female,162,57,165,105,204,78,Hypertension,Non-smoker,Never,High,2018-05-26
+644,73,Female,198,104,99,117,147,84,Hypertension,Non-smoker,Regularly,Moderate,2015-02-18
+645,34,Male,190,76,133,89,138,96,Diabetes,Former smoker,Regularly,Moderate,2022-11-27
+646,34,Male,166,102,100,114,130,178,Heart Disease,Non-smoker,Occasionally,Moderate,2019-04-16
+647,86,Female,158,88,168,100,109,145,Hypertension,Current smoker,Occasionally,Low,2018-05-13
+648,51,Male,190,114,169,84,129,134,Asthma,Non-smoker,Never,Moderate,2018-04-30
+649,23,Female,150,66,170,73,117,178,Asthma,Non-smoker,Regularly,Low,2020-11-15
+650,70,Male,151,79,179,94,287,198,Heart Disease,Former smoker,Never,High,2023-06-18
+651,83,Male,197,102,91,111,187,79,Hypertension,Former smoker,Regularly,Low,2021-09-07
+652,60,Male,178,62,139,107,224,116,Asthma,Non-smoker,Occasionally,Low,2018-02-24
+653,40,Male,182,70,101,93,172,192,Hypertension,Former smoker,Never,Moderate,2015-02-16
+654,72,Female,159,68,179,69,114,128,Hypertension,Current smoker,Never,High,2022-02-12
+655,33,Male,199,102,112,94,103,165,Asthma,Current smoker,Regularly,High,2021-08-25
+656,25,Male,189,68,107,70,290,172,Diabetes,Former smoker,Regularly,Moderate,2017-02-19
+657,21,Female,170,106,151,70,267,193,Asthma,Non-smoker,Regularly,High,2017-10-13
+658,21,Male,177,74,151,80,108,155,Heart Disease,Current smoker,Occasionally,High,2019-02-17
+659,73,Male,160,80,127,80,208,181,None,Current smoker,Never,High,2015-02-27
+660,42,Female,183,104,156,81,236,96,Asthma,Non-smoker,Regularly,Moderate,2015-07-20
+661,84,Male,157,72,127,104,253,87,Hypertension,Former smoker,Occasionally,High,2023-07-29
+662,84,Female,171,81,156,66,231,151,Hypertension,Current smoker,Regularly,Low,2017-12-07
+663,44,Female,157,111,150,114,115,141,Asthma,Non-smoker,Never,Low,2022-04-12
+664,49,Female,198,59,90,76,242,123,None,Non-smoker,Regularly,High,2019-06-13
+665,67,Female,164,103,134,61,198,140,Asthma,Current smoker,Never,Moderate,2023-08-26
+666,78,Male,166,101,117,71,220,107,None,Former smoker,Occasionally,Moderate,2022-02-15
+667,68,Female,172,69,110,116,151,104,None,Current smoker,Occasionally,Moderate,2022-06-20
+668,36,Male,173,81,102,101,168,151,Heart Disease,Non-smoker,Regularly,High,2020-01-04
+669,38,Male,194,63,116,77,104,73,Hypertension,Current smoker,Never,High,2015-07-17
+670,22,Male,168,99,96,113,119,92,Hypertension,Former smoker,Never,Low,2017-05-02
+671,59,Male,154,77,111,118,178,117,None,Non-smoker,Never,Moderate,2021-06-17
+672,78,Male,181,102,163,70,245,194,Hypertension,Former smoker,Regularly,Low,2020-06-12
+673,39,Male,193,73,142,75,210,124,Diabetes,Current smoker,Never,Low,2015-01-15
+674,38,Male,150,71,168,108,101,137,None,Current smoker,Never,Moderate,2018-09-19
+675,87,Male,172,79,168,110,192,157,Hypertension,Former smoker,Never,High,2019-04-30
+676,18,Male,186,112,93,77,112,70,Diabetes,Current smoker,Never,High,2019-10-04
+677,22,Male,157,53,112,94,103,164,Heart Disease,Former smoker,Regularly,Low,2023-02-27
+678,29,Female,162,108,159,112,269,175,Hypertension,Current smoker,Regularly,Low,2017-02-14
+679,63,Female,157,57,177,118,208,177,Diabetes,Former smoker,Never,Low,2015-08-13
+680,51,Female,172,61,173,85,173,111,Asthma,Former smoker,Never,Low,2019-07-07
+681,66,Male,192,80,173,75,288,171,Asthma,Non-smoker,Occasionally,Moderate,2023-10-19
+682,62,Female,150,83,165,65,194,193,Diabetes,Non-smoker,Occasionally,Low,2022-02-24
+683,44,Female,194,98,122,116,204,172,None,Former smoker,Never,Low,2016-09-10
+684,43,Female,173,106,117,103,107,143,None,Current smoker,Never,High,2015-03-10
+685,64,Male,184,75,97,102,166,177,Hypertension,Current smoker,Occasionally,High,2018-10-24
+686,73,Male,173,67,90,106,290,191,Asthma,Current smoker,Occasionally,High,2022-04-05
+687,80,Male,166,87,126,106,209,86,None,Former smoker,Never,Moderate,2018-04-07
+688,65,Male,154,99,152,107,108,140,None,Former smoker,Regularly,Moderate,2019-01-24
+689,78,Female,169,57,111,101,216,131,Asthma,Former smoker,Regularly,High,2016-01-29
+690,43,Female,170,90,159,71,110,110,Heart Disease,Former smoker,Never,High,2015-08-14
+691,53,Female,189,55,110,119,198,188,None,Non-smoker,Never,Low,2015-02-14
+692,18,Female,180,118,124,72,141,114,Diabetes,Former smoker,Occasionally,Low,2022-02-20
+693,25,Male,195,93,168,63,240,127,Hypertension,Current smoker,Occasionally,Moderate,2023-01-12
+694,69,Male,185,113,94,98,263,195,None,Non-smoker,Regularly,Moderate,2018-05-05
+695,64,Male,160,78,149,113,219,113,None,Current smoker,Never,Low,2022-10-14
+696,73,Female,164,77,135,61,240,84,Heart Disease,Former smoker,Occasionally,High,2017-11-18
+697,31,Male,168,60,139,85,111,147,Diabetes,Non-smoker,Regularly,Low,2015-03-22
+698,45,Male,156,114,137,118,136,139,Hypertension,Former smoker,Regularly,Moderate,2019-03-20
+699,19,Female,177,68,95,86,173,170,None,Non-smoker,Regularly,Moderate,2019-09-03
+700,43,Female,192,58,178,86,172,72,Hypertension,Current smoker,Occasionally,Low,2023-09-24
+701,31,Male,154,76,145,74,151,155,Asthma,Former smoker,Occasionally,Low,2017-03-15
+702,76,Male,154,83,148,67,298,143,None,Former smoker,Never,Low,2018-09-23
+703,73,Male,179,93,118,66,229,120,None,Non-smoker,Never,Moderate,2016-08-13
+704,24,Male,181,117,160,106,155,136,Asthma,Non-smoker,Regularly,High,2018-04-21
+705,20,Male,157,64,166,114,159,145,Heart Disease,Former smoker,Regularly,Low,2023-02-20
+706,40,Male,159,100,107,105,122,162,None,Non-smoker,Occasionally,Moderate,2022-05-11
+707,35,Female,187,62,91,99,202,76,Hypertension,Former smoker,Occasionally,Moderate,2020-01-18
+708,55,Female,196,98,97,119,139,82,Diabetes,Non-smoker,Never,Moderate,2020-07-28
+709,32,Female,181,119,164,71,163,189,Hypertension,Current smoker,Never,Low,2015-11-09
+710,81,Male,197,105,143,72,184,135,Heart Disease,Non-smoker,Never,Low,2016-02-10
+711,45,Female,177,100,127,102,250,73,Diabetes,Current smoker,Occasionally,High,2020-12-03
+712,56,Male,166,86,137,76,256,157,Hypertension,Non-smoker,Regularly,Moderate,2020-12-25
+713,74,Male,180,66,116,76,278,86,Hypertension,Non-smoker,Never,Low,2023-02-17
+714,34,Female,157,107,109,115,296,121,Asthma,Former smoker,Never,Moderate,2015-11-06
+715,61,Male,189,78,101,95,188,138,Heart Disease,Non-smoker,Occasionally,Moderate,2018-01-16
+716,42,Male,174,82,132,80,130,90,Asthma,Non-smoker,Never,High,2021-05-09
+717,34,Female,158,109,150,67,277,93,Diabetes,Current smoker,Regularly,Low,2018-07-23
+718,30,Female,151,104,120,64,119,73,Asthma,Non-smoker,Occasionally,Low,2021-05-30
+719,42,Female,164,59,150,85,282,72,Heart Disease,Former smoker,Never,Moderate,2017-10-19
+720,85,Male,199,96,163,75,229,137,None,Current smoker,Never,Moderate,2019-05-13
+721,27,Female,152,72,156,95,252,170,None,Former smoker,Occasionally,High,2017-10-17
+722,84,Female,198,70,124,87,112,123,Diabetes,Former smoker,Occasionally,High,2020-02-22
+723,35,Male,185,62,104,113,221,104,None,Former smoker,Never,High,2015-05-18
+724,51,Female,153,82,105,88,202,125,Asthma,Former smoker,Regularly,High,2022-11-08
+725,25,Female,163,73,102,106,205,177,Diabetes,Current smoker,Occasionally,High,2015-02-01
+726,57,Female,190,60,124,71,218,109,Heart Disease,Non-smoker,Regularly,High,2021-02-23
+727,59,Male,190,66,164,96,169,137,Diabetes,Former smoker,Never,Moderate,2015-11-13
+728,58,Male,174,117,148,89,294,115,Diabetes,Current smoker,Regularly,High,2019-10-24
+729,23,Male,199,96,110,82,285,147,Hypertension,Former smoker,Never,Moderate,2023-08-28
+730,69,Male,159,74,143,75,198,75,Hypertension,Non-smoker,Never,Moderate,2022-07-21
+731,43,Female,170,70,164,73,181,86,Diabetes,Current smoker,Never,Low,2022-11-21
+732,81,Male,185,61,119,69,174,168,None,Current smoker,Never,Moderate,2023-04-12
+733,76,Male,161,86,137,66,217,150,Hypertension,Non-smoker,Regularly,Moderate,2016-07-10
+734,73,Female,176,91,124,104,183,71,Heart Disease,Current smoker,Never,High,2021-02-14
+735,76,Female,189,66,175,111,291,146,Asthma,Non-smoker,Never,Moderate,2015-10-20
+736,87,Female,151,97,127,119,168,135,Hypertension,Current smoker,Regularly,High,2016-09-26
+737,50,Male,162,77,120,96,158,121,Diabetes,Current smoker,Occasionally,High,2016-10-31
+738,70,Male,181,90,167,88,287,161,None,Non-smoker,Regularly,High,2017-08-15
+739,39,Male,180,96,113,62,225,91,Asthma,Non-smoker,Regularly,Low,2021-07-22
+740,38,Female,165,67,138,74,210,180,Hypertension,Current smoker,Regularly,High,2023-02-05
+741,87,Female,181,62,121,95,161,176,None,Current smoker,Never,Moderate,2015-12-26
+742,87,Male,181,62,144,106,243,136,None,Non-smoker,Never,High,2022-09-14
+743,21,Female,183,80,168,105,227,138,None,Non-smoker,Never,High,2021-01-11
+744,79,Female,160,51,147,111,204,153,Diabetes,Current smoker,Occasionally,High,2019-04-30
+745,79,Female,159,65,92,78,167,172,Heart Disease,Current smoker,Never,Low,2022-09-16
+746,41,Male,164,58,169,72,114,108,None,Current smoker,Occasionally,Moderate,2018-01-03
+747,72,Female,166,87,158,101,282,82,Asthma,Non-smoker,Never,Low,2022-05-08
+748,26,Female,189,103,174,80,134,110,Hypertension,Current smoker,Regularly,Moderate,2017-10-22
+749,20,Male,167,105,99,96,282,126,Asthma,Former smoker,Never,Low,2018-11-17
+750,48,Male,158,94,172,86,113,81,Diabetes,Non-smoker,Occasionally,Moderate,2022-06-22
+751,57,Female,174,83,114,114,276,82,Diabetes,Current smoker,Occasionally,Low,2016-07-24
+752,53,Female,189,58,157,111,201,189,Asthma,Non-smoker,Never,High,2018-12-20
+753,41,Male,163,57,150,88,199,166,Heart Disease,Former smoker,Regularly,Low,2023-12-18
+754,23,Male,174,56,118,79,106,126,Diabetes,Non-smoker,Never,Low,2017-12-18
+755,83,Female,199,85,108,84,129,109,Diabetes,Current smoker,Never,High,2017-05-17
+756,21,Female,171,67,132,65,148,187,Asthma,Former smoker,Never,High,2017-06-13
+757,23,Female,179,52,155,95,243,149,Diabetes,Former smoker,Regularly,Moderate,2018-04-24
+758,68,Female,169,77,163,61,210,197,Heart Disease,Current smoker,Occasionally,Moderate,2015-07-05
+759,79,Male,170,119,150,81,278,104,Heart Disease,Current smoker,Regularly,Moderate,2018-04-08
+760,74,Female,193,93,132,91,171,72,Heart Disease,Current smoker,Occasionally,Low,2019-12-01
+761,83,Female,181,70,114,75,179,189,Hypertension,Non-smoker,Occasionally,Moderate,2018-08-07
+762,25,Male,195,77,109,77,182,74,Heart Disease,Non-smoker,Occasionally,Low,2023-04-01
+763,43,Female,198,103,137,64,141,80,Heart Disease,Non-smoker,Regularly,Low,2022-12-22
+764,68,Male,170,103,172,113,116,195,Hypertension,Current smoker,Never,Moderate,2019-07-14
+765,62,Female,184,114,176,95,290,140,None,Current smoker,Never,Moderate,2017-05-14
+766,61,Female,181,70,113,89,272,186,Diabetes,Non-smoker,Never,Low,2022-02-26
+767,22,Male,179,62,100,104,106,175,Heart Disease,Former smoker,Never,High,2022-03-10
+768,87,Male,188,106,144,78,254,185,Diabetes,Non-smoker,Never,High,2016-07-17
+769,43,Female,198,98,117,82,109,136,Asthma,Former smoker,Regularly,Low,2022-10-27
+770,85,Female,161,103,158,93,133,100,Diabetes,Current smoker,Regularly,Moderate,2022-06-30
+771,36,Female,190,59,152,72,135,144,Hypertension,Current smoker,Regularly,Low,2016-12-09
+772,37,Male,196,102,148,102,252,140,Diabetes,Non-smoker,Regularly,Low,2022-07-22
+773,29,Female,167,93,94,113,105,135,Diabetes,Non-smoker,Regularly,Moderate,2022-06-25
+774,64,Male,170,96,140,88,251,139,Diabetes,Current smoker,Regularly,High,2016-10-14
+775,18,Male,162,102,110,95,245,110,None,Non-smoker,Regularly,Low,2023-04-27
+776,31,Female,170,95,101,81,233,89,None,Current smoker,Never,High,2015-11-14
+777,81,Male,157,62,139,111,128,108,Asthma,Current smoker,Occasionally,High,2023-03-01
+778,55,Female,195,86,93,111,225,114,Hypertension,Former smoker,Regularly,Moderate,2015-03-03
+779,54,Female,189,73,131,106,252,139,Diabetes,Non-smoker,Occasionally,Low,2023-04-12
+780,28,Female,195,51,173,95,282,194,Diabetes,Current smoker,Regularly,Low,2021-07-09
+781,20,Female,156,63,127,68,180,160,Diabetes,Non-smoker,Regularly,High,2019-04-09
+782,50,Female,172,59,114,98,273,139,Diabetes,Former smoker,Never,High,2022-02-25
+783,23,Male,193,84,103,110,251,199,None,Former smoker,Occasionally,Moderate,2017-11-16
+784,67,Male,181,74,164,78,174,153,Asthma,Non-smoker,Never,High,2016-04-16
+785,27,Female,160,52,121,97,125,158,Heart Disease,Non-smoker,Never,Moderate,2020-10-17
+786,22,Female,171,66,100,65,226,148,Hypertension,Current smoker,Occasionally,Low,2021-01-21
+787,40,Male,171,61,150,111,214,182,Diabetes,Former smoker,Never,Moderate,2021-04-16
+788,27,Male,192,103,107,106,225,162,Asthma,Former smoker,Regularly,High,2020-10-24
+789,61,Male,174,73,116,74,127,141,Heart Disease,Former smoker,Regularly,Low,2020-01-21
+790,19,Male,171,78,144,116,230,118,Asthma,Non-smoker,Regularly,Moderate,2022-04-29
+791,30,Female,177,92,143,79,174,121,None,Current smoker,Regularly,Low,2015-12-05
+792,57,Female,178,74,171,68,265,102,Heart Disease,Non-smoker,Regularly,Moderate,2019-06-17
+793,19,Male,162,109,176,91,288,91,Asthma,Non-smoker,Never,High,2020-05-08
+794,82,Female,167,114,164,63,177,183,None,Non-smoker,Never,High,2018-04-25
+795,80,Male,151,77,110,109,278,87,Asthma,Current smoker,Regularly,Low,2018-11-13
+796,34,Female,178,65,133,77,189,187,Asthma,Non-smoker,Regularly,Low,2016-10-18
+797,26,Male,170,96,94,64,275,186,Heart Disease,Former smoker,Never,Low,2017-04-01
+798,32,Female,164,107,176,79,120,106,None,Former smoker,Occasionally,Moderate,2020-08-21
+799,41,Male,176,76,130,82,153,133,Diabetes,Former smoker,Never,High,2019-10-02
+800,55,Male,199,102,148,70,283,148,Hypertension,Current smoker,Never,Low,2022-12-06
+801,52,Female,180,91,178,96,202,192,Heart Disease,Non-smoker,Never,Low,2019-12-03
+802,66,Male,164,108,143,81,158,113,None,Current smoker,Never,Low,2020-01-20
+803,86,Female,172,96,163,117,171,151,Asthma,Non-smoker,Never,Moderate,2017-08-19
+804,79,Female,173,83,111,63,278,156,None,Former smoker,Occasionally,Low,2020-11-12
+805,77,Male,193,86,172,88,119,85,Hypertension,Non-smoker,Regularly,Low,2022-01-26
+806,67,Female,162,55,154,103,211,123,Hypertension,Non-smoker,Regularly,Moderate,2018-12-31
+807,26,Female,171,56,153,93,158,171,Diabetes,Non-smoker,Occasionally,Moderate,2023-06-23
+808,51,Female,192,74,160,72,170,167,Diabetes,Current smoker,Regularly,Low,2017-10-24
+809,52,Female,186,82,93,101,236,71,Hypertension,Non-smoker,Regularly,Low,2020-05-26
+810,18,Female,182,104,154,68,208,163,Heart Disease,Non-smoker,Regularly,Moderate,2021-12-01
+811,57,Male,152,107,104,101,228,128,Heart Disease,Non-smoker,Occasionally,High,2020-01-15
+812,81,Female,168,56,165,90,256,138,Asthma,Current smoker,Occasionally,Moderate,2018-09-23
+813,39,Female,172,106,111,66,290,188,Diabetes,Current smoker,Regularly,High,2023-03-04
+814,77,Female,178,61,175,63,299,161,Asthma,Current smoker,Regularly,Low,2022-05-01
+815,81,Female,179,65,136,78,155,114,Diabetes,Non-smoker,Regularly,Low,2016-03-26
+816,89,Female,188,92,170,101,295,93,Hypertension,Former smoker,Never,High,2015-01-31
+817,28,Male,193,56,135,89,134,160,Heart Disease,Former smoker,Never,Moderate,2023-06-21
+818,31,Female,196,100,103,90,222,163,Heart Disease,Former smoker,Never,Low,2022-06-17
+819,77,Male,174,81,139,94,230,127,Hypertension,Non-smoker,Occasionally,High,2020-08-28
+820,47,Male,186,57,109,116,203,197,Asthma,Former smoker,Regularly,Moderate,2016-12-15
+821,52,Male,196,94,139,80,106,76,Asthma,Former smoker,Occasionally,High,2016-05-08
+822,54,Male,157,108,122,90,126,116,None,Former smoker,Occasionally,Moderate,2022-01-28
+823,22,Female,191,53,148,78,100,122,Diabetes,Non-smoker,Occasionally,Moderate,2019-07-18
+824,43,Male,165,116,132,90,298,107,Asthma,Former smoker,Regularly,Moderate,2015-01-23
+825,79,Male,157,78,168,112,271,122,Hypertension,Former smoker,Never,Moderate,2018-09-24
+826,21,Female,150,78,101,91,186,117,Asthma,Non-smoker,Regularly,High,2020-05-19
+827,59,Female,193,77,129,61,140,164,Heart Disease,Current smoker,Regularly,High,2016-12-19
+828,35,Female,154,93,109,118,222,133,Diabetes,Former smoker,Occasionally,High,2019-08-16
+829,57,Male,152,53,127,111,174,162,None,Current smoker,Occasionally,High,2015-09-05
+830,89,Female,150,58,92,69,141,194,Diabetes,Former smoker,Occasionally,High,2021-02-10
+831,56,Female,153,54,117,61,216,108,Heart Disease,Non-smoker,Never,Moderate,2017-11-01
+832,31,Male,189,105,145,61,260,73,Heart Disease,Current smoker,Never,Low,2022-02-09
+833,49,Female,184,99,179,119,277,195,Heart Disease,Current smoker,Never,Low,2018-04-12
+834,68,Female,181,64,102,83,162,72,Heart Disease,Current smoker,Regularly,High,2015-03-22
+835,55,Female,191,81,166,76,264,133,Hypertension,Current smoker,Occasionally,High,2023-02-23
+836,40,Female,183,77,155,91,286,98,None,Former smoker,Regularly,Low,2020-08-24
+837,80,Male,192,71,126,75,226,185,Heart Disease,Former smoker,Never,Moderate,2020-09-04
+838,32,Female,174,66,138,75,275,80,Heart Disease,Current smoker,Occasionally,High,2023-05-23
+839,42,Female,159,108,155,105,232,166,Asthma,Former smoker,Never,Moderate,2016-04-22
+840,34,Male,170,106,125,98,147,171,None,Current smoker,Occasionally,Low,2022-09-22
+841,83,Female,195,75,143,112,102,90,Diabetes,Current smoker,Occasionally,Low,2019-07-18
+842,70,Male,188,74,115,90,215,108,None,Non-smoker,Regularly,High,2019-07-10
+843,68,Female,176,59,164,102,274,171,None,Current smoker,Regularly,Moderate,2015-05-19
+844,56,Male,176,94,161,83,289,115,None,Former smoker,Never,High,2015-08-28
+845,68,Male,151,60,129,60,198,135,Heart Disease,Current smoker,Regularly,Low,2017-05-25
+846,87,Male,190,102,132,70,215,160,Heart Disease,Non-smoker,Regularly,Moderate,2018-08-10
+847,23,Male,197,117,111,114,113,180,Hypertension,Former smoker,Regularly,High,2016-11-05
+848,84,Female,162,77,109,80,290,151,Diabetes,Non-smoker,Occasionally,High,2019-01-12
+849,24,Male,158,114,97,63,211,192,Asthma,Non-smoker,Regularly,High,2018-05-24
+850,68,Female,185,98,118,66,160,168,None,Current smoker,Never,Low,2022-02-08
+851,89,Male,171,96,129,85,258,104,Diabetes,Non-smoker,Occasionally,High,2021-05-22
+852,59,Male,191,101,179,106,194,172,Diabetes,Non-smoker,Occasionally,Moderate,2018-06-03
+853,81,Male,175,103,119,109,116,198,Hypertension,Former smoker,Regularly,High,2018-04-27
+854,32,Female,161,109,170,71,223,94,Asthma,Non-smoker,Occasionally,Low,2019-07-02
+855,46,Male,166,106,173,90,123,112,None,Current smoker,Never,High,2017-01-18
+856,50,Female,163,96,144,76,215,153,Asthma,Current smoker,Never,Low,2016-01-05
+857,44,Female,163,80,105,92,250,120,Hypertension,Current smoker,Occasionally,Low,2022-03-23
+858,53,Female,183,95,135,70,181,199,Heart Disease,Non-smoker,Regularly,Moderate,2020-01-22
+859,46,Female,169,75,151,87,149,195,Diabetes,Former smoker,Regularly,Moderate,2015-12-14
+860,55,Female,160,54,96,91,178,138,None,Current smoker,Occasionally,High,2022-10-11
+861,74,Female,165,101,169,60,178,78,Heart Disease,Non-smoker,Never,Low,2015-06-09
+862,44,Female,180,103,134,106,169,71,Hypertension,Current smoker,Occasionally,Low,2020-10-02
+863,72,Female,155,82,148,87,126,79,Asthma,Current smoker,Regularly,Moderate,2023-02-05
+864,50,Female,168,99,145,112,114,183,Diabetes,Former smoker,Regularly,Moderate,2018-09-25
+865,85,Male,186,87,137,101,149,145,None,Current smoker,Occasionally,High,2016-03-18
+866,83,Male,153,76,116,66,135,154,Heart Disease,Former smoker,Never,Low,2021-12-26
+867,27,Male,196,64,142,61,107,118,Heart Disease,Non-smoker,Occasionally,Moderate,2018-01-29
+868,22,Male,153,110,176,101,178,139,Diabetes,Current smoker,Never,High,2015-02-05
+869,55,Male,169,70,177,83,230,159,Asthma,Non-smoker,Never,Low,2017-05-27
+870,30,Female,159,95,162,63,289,95,Hypertension,Non-smoker,Occasionally,Low,2015-02-24
+871,48,Female,173,118,124,103,146,141,Asthma,Non-smoker,Occasionally,Moderate,2019-12-31
+872,64,Female,184,55,140,78,204,74,Asthma,Current smoker,Never,High,2021-06-07
+873,69,Female,175,87,173,85,197,84,Asthma,Former smoker,Never,Moderate,2019-09-06
+874,73,Female,186,111,126,70,195,192,Diabetes,Current smoker,Never,High,2016-02-13
+875,32,Female,187,111,170,99,288,70,Diabetes,Non-smoker,Never,Low,2015-07-21
+876,46,Female,170,95,146,109,259,72,Hypertension,Former smoker,Regularly,High,2015-04-15
+877,25,Male,189,62,97,102,215,116,Asthma,Non-smoker,Occasionally,High,2020-02-15
+878,22,Male,188,52,168,70,112,164,Diabetes,Former smoker,Never,High,2017-12-28
+879,46,Male,170,55,109,104,100,82,Hypertension,Current smoker,Occasionally,High,2023-04-30
+880,64,Male,159,57,142,62,133,189,Hypertension,Former smoker,Never,High,2019-11-22
+881,85,Female,187,93,101,71,289,124,Asthma,Current smoker,Occasionally,Moderate,2017-05-11
+882,62,Female,195,82,138,62,178,135,None,Non-smoker,Occasionally,High,2021-05-15
+883,19,Female,153,99,106,101,177,159,Asthma,Former smoker,Never,High,2017-12-27
+884,44,Male,194,60,153,86,220,131,None,Non-smoker,Never,Low,2019-12-16
+885,53,Female,169,77,131,108,192,171,Hypertension,Former smoker,Occasionally,High,2022-10-29
+886,53,Female,166,119,118,113,197,77,Diabetes,Current smoker,Occasionally,Low,2021-06-12
+887,43,Female,156,90,108,61,181,166,Heart Disease,Former smoker,Occasionally,Moderate,2023-12-01
+888,60,Male,153,65,100,108,298,186,Hypertension,Former smoker,Regularly,Moderate,2022-05-13
+889,44,Female,178,117,139,75,258,133,Diabetes,Current smoker,Never,High,2016-04-26
+890,86,Male,163,97,160,61,291,90,Hypertension,Current smoker,Regularly,Moderate,2015-02-17
+891,37,Male,152,105,147,119,252,184,Asthma,Current smoker,Regularly,High,2019-04-29
+892,28,Male,173,113,123,113,137,154,None,Former smoker,Never,Moderate,2016-09-07
+893,55,Male,186,108,109,89,113,89,Hypertension,Non-smoker,Never,High,2020-02-09
+894,23,Female,165,111,139,79,235,77,Diabetes,Former smoker,Regularly,High,2023-04-23
+895,89,Male,153,60,177,97,190,127,Asthma,Former smoker,Never,Low,2018-05-16
+896,40,Male,173,67,99,87,153,115,Heart Disease,Non-smoker,Occasionally,Low,2022-04-08
+897,64,Female,183,68,121,84,229,100,Asthma,Current smoker,Occasionally,Low,2019-12-10
+898,63,Female,179,104,141,91,200,162,None,Former smoker,Regularly,Low,2018-06-23
+899,29,Male,167,75,104,69,188,78,Asthma,Non-smoker,Regularly,High,2015-06-14
+900,30,Female,168,55,173,119,155,84,Heart Disease,Current smoker,Never,Moderate,2017-08-20
+901,79,Male,180,53,92,101,193,163,Diabetes,Current smoker,Never,High,2015-07-17
+902,77,Male,168,78,126,99,192,98,Hypertension,Former smoker,Regularly,Low,2018-07-05
+903,60,Male,198,108,129,92,183,149,None,Current smoker,Regularly,Low,2019-10-06
+904,85,Male,195,66,161,72,184,105,Heart Disease,Current smoker,Occasionally,Moderate,2020-10-21
+905,22,Female,168,92,129,115,288,153,None,Non-smoker,Occasionally,Low,2018-12-05
+906,54,Male,171,115,145,100,121,178,Asthma,Non-smoker,Never,High,2015-02-22
+907,89,Female,173,83,112,113,134,187,None,Current smoker,Occasionally,High,2023-08-08
+908,48,Female,194,57,100,101,115,106,Heart Disease,Non-smoker,Never,High,2023-04-25
+909,26,Female,161,62,153,106,149,155,Hypertension,Current smoker,Never,High,2023-05-02
+910,68,Female,179,57,97,96,221,140,Hypertension,Former smoker,Never,High,2021-12-01
+911,46,Male,187,114,145,113,227,162,None,Non-smoker,Occasionally,Moderate,2022-05-22
+912,57,Female,180,92,149,75,212,149,Diabetes,Current smoker,Regularly,High,2019-07-03
+913,58,Male,185,88,99,104,270,171,None,Current smoker,Regularly,Low,2016-08-18
+914,28,Female,168,108,128,81,116,83,Asthma,Non-smoker,Occasionally,Low,2021-02-18
+915,40,Female,197,93,117,116,179,186,Hypertension,Non-smoker,Regularly,Low,2018-02-27
+916,18,Male,194,58,138,79,285,142,Hypertension,Former smoker,Never,Low,2023-11-03
+917,63,Male,185,86,125,109,229,160,Hypertension,Current smoker,Regularly,Moderate,2022-08-22
+918,38,Male,179,85,102,102,231,159,Diabetes,Former smoker,Occasionally,Low,2022-12-09
+919,53,Female,198,77,125,86,184,98,Diabetes,Former smoker,Regularly,Moderate,2020-03-23
+920,71,Female,182,91,115,100,266,118,Heart Disease,Former smoker,Never,Low,2019-11-24
+921,74,Male,167,92,175,75,193,141,None,Non-smoker,Never,Moderate,2019-09-15
+922,18,Male,198,91,93,93,233,111,None,Former smoker,Occasionally,Moderate,2016-11-10
+923,80,Male,177,115,171,91,180,111,Asthma,Non-smoker,Occasionally,Moderate,2021-04-27
+924,71,Male,196,104,153,85,168,174,Hypertension,Non-smoker,Occasionally,Low,2021-06-25
+925,72,Female,160,97,127,84,168,96,Diabetes,Former smoker,Never,Moderate,2019-02-05
+926,57,Male,194,71,177,61,247,127,Asthma,Former smoker,Regularly,High,2016-12-30
+927,32,Male,182,76,176,71,291,115,Asthma,Current smoker,Regularly,High,2023-05-07
+928,38,Male,166,116,111,99,115,135,Diabetes,Former smoker,Occasionally,Low,2019-06-04
+929,64,Male,155,62,91,68,150,94,None,Current smoker,Regularly,High,2015-01-29
+930,70,Female,153,94,120,71,204,142,Hypertension,Former smoker,Regularly,High,2020-09-05
+931,26,Male,169,59,100,85,264,186,None,Former smoker,Occasionally,High,2021-01-06
+932,69,Female,197,58,135,68,296,198,Asthma,Former smoker,Occasionally,Low,2021-09-05
+933,74,Male,196,103,151,69,269,156,Hypertension,Former smoker,Never,Low,2022-05-06
+934,43,Male,176,76,158,91,284,143,Heart Disease,Current smoker,Never,High,2016-01-13
+935,58,Female,164,83,153,116,165,194,Asthma,Current smoker,Never,Low,2015-04-10
+936,52,Male,155,50,99,93,108,136,None,Former smoker,Never,Moderate,2021-07-28
+937,80,Female,196,81,129,107,206,75,None,Former smoker,Regularly,High,2020-11-15
+938,42,Female,163,116,113,79,199,194,None,Current smoker,Regularly,Low,2015-10-11
+939,55,Male,160,69,133,98,185,127,Diabetes,Non-smoker,Never,Low,2022-06-02
+940,19,Female,188,84,149,119,163,139,Asthma,Non-smoker,Never,High,2019-09-05
+941,24,Female,158,66,151,61,121,122,Hypertension,Non-smoker,Occasionally,Low,2018-05-23
+942,51,Female,175,67,176,60,261,135,None,Current smoker,Regularly,High,2022-10-21
+943,34,Female,165,94,106,110,282,127,None,Current smoker,Regularly,Low,2018-03-28
+944,60,Female,154,102,154,119,256,151,Diabetes,Non-smoker,Never,Moderate,2021-04-09
+945,76,Female,159,117,146,95,265,156,Hypertension,Non-smoker,Regularly,High,2020-04-27
+946,68,Female,199,114,144,83,209,71,Asthma,Former smoker,Occasionally,Moderate,2017-08-23
+947,71,Female,152,50,142,113,196,106,Heart Disease,Current smoker,Occasionally,High,2020-01-28
+948,41,Male,162,107,145,86,117,172,Diabetes,Current smoker,Regularly,Low,2022-04-09
+949,42,Male,192,75,98,61,170,93,Asthma,Non-smoker,Never,Moderate,2016-08-26
+950,88,Female,198,69,111,90,292,181,Heart Disease,Non-smoker,Regularly,Low,2015-09-02
+951,69,Male,179,59,102,116,226,134,None,Current smoker,Occasionally,High,2019-03-14
+952,87,Female,194,108,178,73,196,198,None,Former smoker,Never,High,2017-07-16
+953,50,Female,155,90,137,61,100,186,Hypertension,Non-smoker,Regularly,High,2018-09-16
+954,66,Male,166,54,107,88,231,185,Heart Disease,Current smoker,Never,High,2021-10-17
+955,46,Female,194,114,165,74,103,174,None,Current smoker,Never,High,2022-04-12
+956,80,Female,168,66,129,71,224,72,None,Former smoker,Occasionally,Moderate,2016-12-04
+957,39,Female,191,71,106,96,181,115,Hypertension,Former smoker,Never,High,2015-01-27
+958,43,Female,184,90,104,87,126,124,Asthma,Non-smoker,Regularly,Low,2017-11-09
+959,45,Male,195,117,104,79,270,144,None,Non-smoker,Never,Moderate,2018-05-08
+960,66,Female,175,118,168,98,158,114,Diabetes,Non-smoker,Never,Low,2023-12-19
+961,88,Female,154,60,152,83,131,146,Diabetes,Current smoker,Regularly,High,2023-05-03
+962,66,Female,178,105,128,80,260,93,Asthma,Non-smoker,Occasionally,Low,2015-09-28
+963,37,Male,186,100,102,69,127,104,Heart Disease,Current smoker,Occasionally,Moderate,2023-08-15
+964,80,Female,169,70,170,105,205,93,Hypertension,Non-smoker,Regularly,Moderate,2017-04-22
+965,78,Male,198,75,121,73,204,97,Diabetes,Former smoker,Regularly,Moderate,2019-07-20
+966,66,Male,170,68,98,96,282,85,Diabetes,Former smoker,Occasionally,Low,2016-09-28
+967,88,Female,159,109,129,77,287,128,Asthma,Current smoker,Never,Moderate,2022-05-18
+968,18,Female,154,96,109,83,169,84,Heart Disease,Former smoker,Regularly,Low,2017-06-20
+969,30,Male,185,75,179,73,161,80,Heart Disease,Current smoker,Never,High,2016-07-30
+970,68,Female,155,89,174,93,133,148,Asthma,Current smoker,Regularly,High,2021-04-09
+971,73,Male,175,54,171,117,186,184,Diabetes,Former smoker,Occasionally,Low,2016-11-27
+972,79,Male,153,70,166,71,213,137,Hypertension,Current smoker,Never,Moderate,2022-05-27
+973,49,Female,188,53,169,81,205,112,Diabetes,Former smoker,Never,Low,2023-08-29
+974,47,Female,188,72,162,115,155,138,Heart Disease,Non-smoker,Regularly,Low,2019-04-08
+975,46,Male,199,64,152,65,212,144,Diabetes,Non-smoker,Never,Low,2022-08-25
+976,66,Male,184,57,165,95,112,172,Hypertension,Former smoker,Regularly,High,2017-04-05
+977,62,Male,150,90,133,104,283,110,None,Former smoker,Occasionally,Low,2020-06-18
+978,47,Male,173,68,127,95,117,128,Diabetes,Former smoker,Never,High,2018-05-15
+979,33,Female,185,95,172,81,281,108,Asthma,Former smoker,Regularly,Low,2018-11-20
+980,57,Female,155,77,149,73,212,72,None,Non-smoker,Never,High,2021-10-14
+981,36,Female,190,117,160,75,270,76,Asthma,Current smoker,Regularly,Low,2021-10-12
+982,35,Female,195,64,137,95,138,118,Asthma,Current smoker,Regularly,Low,2018-08-24
+983,18,Female,193,86,107,115,288,95,Asthma,Non-smoker,Regularly,Moderate,2015-10-04
+984,64,Male,180,50,105,84,269,170,Diabetes,Current smoker,Occasionally,Moderate,2022-08-14
+985,83,Female,169,116,144,91,178,148,Heart Disease,Non-smoker,Never,Low,2021-10-26
+986,55,Female,173,73,128,92,245,71,None,Current smoker,Occasionally,Low,2023-04-22
+987,68,Female,174,76,157,104,250,196,Hypertension,Former smoker,Regularly,Low,2022-05-07
+988,80,Female,185,89,148,95,281,89,Heart Disease,Former smoker,Regularly,Low,2019-06-05
+989,21,Female,170,112,178,79,129,186,Diabetes,Former smoker,Occasionally,Moderate,2020-09-22
+990,18,Male,179,110,151,77,197,101,Asthma,Non-smoker,Occasionally,High,2019-10-09
+991,25,Male,173,85,102,97,157,97,Hypertension,Non-smoker,Never,Low,2020-06-27
+992,46,Male,193,73,170,62,295,146,None,Current smoker,Regularly,Moderate,2023-08-19
+993,72,Female,191,73,95,82,166,70,Heart Disease,Current smoker,Occasionally,Low,2018-03-03
+994,20,Male,179,53,172,91,170,125,Heart Disease,Current smoker,Regularly,Low,2015-10-07
+995,49,Male,171,116,166,104,245,104,Hypertension,Non-smoker,Regularly,High,2019-08-03
+996,27,Female,177,83,149,118,205,181,Diabetes,Current smoker,Never,Low,2020-11-08
+997,51,Female,156,106,179,75,106,99,None,Former smoker,Never,Low,2020-01-09
+998,72,Female,184,98,103,118,139,123,Hypertension,Current smoker,Never,High,2015-12-26
+999,49,Male,177,102,143,64,169,105,Asthma,Former smoker,Occasionally,High,2021-02-11
+1000,67,Male,163,72,93,63,292,149,None,Non-smoker,Regularly,High,2023-05-16
